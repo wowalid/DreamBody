@@ -1,0 +1,35 @@
+
+/* put here your custom css styles */
+
+/*numero de telephone taille*/
+
+.top_info_list li .value {
+	font-size: 45px;
+	color: #00BFFF;
+}
+
+/*couleur et taille texte slider*/
+
+.slider_content .title {
+        color: #00BFFF;
+        font-size: 59px;
+}
+.slider_content .subtitle {
+       color: #00BFFF;
+       font-size: 22px;
+}
+
+.slider_content h1 {
+text-align: left;
+}
+
+.slider_content_box {
+margin-top: -670px;
+min-height: 460px; 
+}
+
+
+.slider_navigation {
+display: none;
+ }
+ 

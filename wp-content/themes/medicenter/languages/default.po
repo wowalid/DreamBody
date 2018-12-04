@@ -1,0 +1,4042 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MediCenter WordPress Theme\n"
+"POT-Creation-Date: 2015-01-09 13:39+0100\n"
+"PO-Revision-Date: 2015-01-09 13:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: QuanticaLabs\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:27 404.php:28 page.php:11 page.php:12 search.php:14 search.php:15 single-features.php:15
+#: single-features.php:16 single.php:15 single.php:16 template-blog.php:27 template-blog.php:28 woocommerce.php:11
+#: woocommerce.php:12
+msgid "Home"
+msgstr ""
+
+#: 404.php:47
+msgid "404"
+msgstr ""
+
+#: 404.php:48
+msgid "Error 404"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/example.php:86
+#: class-tgm-plugin-activation.php:164 plugins_activator.php:57
+msgid "Install Required Plugins"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/example.php:87
+#: class-tgm-plugin-activation.php:165 plugins_activator.php:58
+msgid "Install Plugins"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/example.php:88
+#: class-tgm-plugin-activation.php:166 plugins_activator.php:59
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+#: class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:490
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/example.php:100
+#: class-tgm-plugin-activation.php:178 class-tgm-plugin-activation.php:490 plugins_activator.php:71
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1846
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/example.php:101
+#: class-tgm-plugin-activation.php:179 class-tgm-plugin-activation.php:1846 plugins_activator.php:72
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+#: class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:517
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:2058
+#: class-tgm-plugin-activation.php:517 class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:545
+#: class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:704
+#: class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+#: class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1096
+#: class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1099
+#: class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+#: class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+#: class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+#: class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1109
+#: class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1111
+#: class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1281
+#: class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+#: class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+#: class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+#: admin/functions.php:299 class-tgm-plugin-activation.php:1299 post-type-doctors.php:529 post-type-features.php:377
+#: post-type-gallery.php:518 shortcodes/icon.php:151 shortcodes/items_list.php:108 shortcodes/notification_box.php:54
+#: shortcodes/shortcodes.php:123
+msgid "Type"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1300
+#: class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1318
+#: class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1319
+#: class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+#: class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+#: class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+#: class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1832
+#: class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1833
+#: class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1834
+#: class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1845
+#: class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+#: class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a while on some hosts, so please be "
+"patient."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#: class-tgm-plugin-activation.php:1956 class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#: class-tgm-plugin-activation.php:1956 class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+#: class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#: class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+#: class-tgm-plugin-activation.php:1962
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+#: class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+#: class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#: class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1966
+#: class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/class-tgm-plugin-activation.php:1967
+#: class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/example.php:89
+#: plugins_activator.php:60
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: TGM-Plugin-Activation-master/TGM-Plugin-Activation-master/tgm-plugin-activation/example.php:102
+#: plugins_activator.php:73
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: admin/functions.php:29 admin/functions.php:43 admin/functions.php:57 admin/functions.php:71 admin/functions.php:85
+#: admin/functions.php:123
+msgid "header"
+msgstr ""
+
+#: admin/functions.php:33 admin/functions.php:47 admin/functions.php:61 admin/functions.php:75 admin/functions.php:89
+#: admin/functions.php:99 admin/functions.php:113 admin/functions.php:127
+msgid "footer top"
+msgstr ""
+
+#: admin/functions.php:37 admin/functions.php:51 admin/functions.php:65 admin/functions.php:79 admin/functions.php:93
+#: admin/functions.php:103 admin/functions.php:117 admin/functions.php:131
+msgid "footer bottom"
+msgstr ""
+
+#: admin/functions.php:109
+msgid "top"
+msgstr ""
+
+#: admin/functions.php:202
+msgid "Sidebar"
+msgstr ""
+
+#: admin/functions.php:203
+msgid "Main Slider"
+msgstr ""
+
+#: admin/functions.php:284
+msgid "Add list item"
+msgstr ""
+
+#: admin/functions.php:295
+msgid "Add New List Item"
+msgstr ""
+
+#: admin/functions.php:302 shortcodes/items_list.php:97 shortcodes/items_list.php:110
+msgid "Items list"
+msgstr ""
+
+#: admin/functions.php:303 shortcodes/items_list.php:110
+msgid "Info list"
+msgstr ""
+
+#: admin/functions.php:304 shortcodes/items_list.php:110
+msgid "Scrolling list"
+msgstr ""
+
+#: admin/functions.php:305 shortcodes/items_list.php:110
+msgid "Simple list"
+msgstr ""
+
+#: admin/functions.php:310 theme-options.php:651
+msgid "Text"
+msgstr ""
+
+#: admin/functions.php:316
+msgid "Value"
+msgstr ""
+
+#: admin/functions.php:322 shortcodes/icon.php:206 shortcodes/shortcodes.php:295
+msgid "Url"
+msgstr ""
+
+#: admin/functions.php:328 shortcodes/icon.php:213
+msgid "Url target"
+msgstr ""
+
+#: admin/functions.php:331 post-type-doctors.php:149 post-type-doctors.php:218 post-type-gallery.php:149
+#: post-type-gallery.php:196 shortcodes/icon.php:216
+msgid "new window"
+msgstr ""
+
+#: admin/functions.php:332 post-type-doctors.php:148 post-type-doctors.php:217 post-type-gallery.php:148
+#: post-type-gallery.php:195 shortcodes/icon.php:217
+msgid "same window"
+msgstr ""
+
+#: admin/functions.php:337 post-type-features.php:64 post-type-features.php:228 shortcodes/icon.php:140
+#: shortcodes/icon.php:158 shortcodes/icon.php:166
+msgid "Icon"
+msgstr ""
+
+#: admin/functions.php:340
+msgid "-"
+msgstr ""
+
+#: admin/functions.php:341
+msgid "Left arrow black"
+msgstr ""
+
+#: admin/functions.php:342
+msgid "Right arrow black"
+msgstr ""
+
+#: admin/functions.php:343
+msgid "Top arrow black"
+msgstr ""
+
+#: admin/functions.php:344
+msgid "Left arrow white"
+msgstr ""
+
+#: admin/functions.php:345
+msgid "Right arrow white"
+msgstr ""
+
+#: admin/functions.php:346
+msgid "Top arrow white"
+msgstr ""
+
+#: admin/functions.php:347
+msgid "Square"
+msgstr ""
+
+#: admin/functions.php:348
+msgid "Mark"
+msgstr ""
+
+#: admin/functions.php:349
+msgid "Tick"
+msgstr ""
+
+#: admin/functions.php:354
+msgid "Custom text color"
+msgstr ""
+
+#: admin/functions.php:362
+msgid "Custom value color"
+msgstr ""
+
+#: admin/functions.php:370
+msgid "Custom border color"
+msgstr ""
+
+#: admin/functions.php:374
+msgid "Set to <em>none</em> for no border"
+msgstr ""
+
+#: admin/functions.php:379
+msgid "Add Item"
+msgstr ""
+
+#: admin/functions.php:379
+msgid "Cancel"
+msgstr ""
+
+#: comments-form.php:7 shortcodes/single-post.php:117
+msgid "Leave a reply"
+msgstr ""
+
+#: comments-form.php:21
+msgid "Your Name"
+msgstr ""
+
+#: comments-form.php:25
+msgid "Your Email"
+msgstr ""
+
+#: comments-form.php:29 comments-functions.php:25
+msgid "Website (optional)"
+msgstr ""
+
+#: comments-form.php:35 comments-functions.php:72
+msgid "Message"
+msgstr ""
+
+#: comments-form.php:39 contact_form.php:90
+msgid "Send"
+msgstr ""
+
+#: comments-form.php:40
+msgid "Cancel reply"
+msgstr ""
+
+#: comments-functions.php:35
+msgid "Your comment has been added"
+msgstr ""
+
+#: comments-functions.php:62
+msgid "Error while adding comment"
+msgstr ""
+
+#: comments-functions.php:68
+msgid "Your name"
+msgstr ""
+
+#: comments-functions.php:69
+msgid "Please enter your name"
+msgstr ""
+
+#: comments-functions.php:70
+msgid "Your email"
+msgstr ""
+
+#: comments-functions.php:71
+msgid "Please enter valid e-mail"
+msgstr ""
+
+#: comments-functions.php:73
+msgid "Please enter your message"
+msgstr ""
+
+#: comments.php:12 shortcodes/blog.php:105 shortcodes/blog.php:222 shortcodes/single-post.php:58
+msgid "comments"
+msgstr ""
+
+#: comments.php:12 shortcodes/blog.php:105 shortcodes/blog.php:222 shortcodes/single-post.php:58
+msgid "comment"
+msgstr ""
+
+#: comments.php:70
+msgid "Posted by "
+msgstr ""
+
+#: comments.php:71
+msgid " on"
+msgstr ""
+
+#: comments.php:72
+#, php-format
+msgid " %1$s, %2$s"
+msgstr ""
+
+#: comments.php:73
+msgid "(Edit)"
+msgstr ""
+
+#: comments.php:76
+msgid "Show comment"
+msgstr ""
+
+#: comments.php:77
+msgid "in reply to "
+msgstr ""
+
+#: comments.php:84
+msgid "Reply"
+msgstr ""
+
+#: comments.php:85
+msgid "Reply &rarr;"
+msgstr ""
+
+#: contact_form.php:8 contact_form.php:122
+msgid "Online Appointment Form "
+msgstr ""
+
+#: contact_form.php:11 contact_form.php:143
+msgid "Select department"
+msgstr ""
+
+#: contact_form.php:56
+msgid "First Name"
+msgstr ""
+
+#: contact_form.php:60
+msgid "Date of Birth (mm/dd/yyyy)"
+msgstr ""
+
+#: contact_form.php:64
+msgid "Phone Number"
+msgstr ""
+
+#: contact_form.php:70
+msgid "Last Name"
+msgstr ""
+
+#: contact_form.php:74
+msgid "Social Security Number"
+msgstr ""
+
+#: contact_form.php:78
+msgid "E-mail"
+msgstr ""
+
+#: contact_form.php:84
+msgid "Reason of Appointment"
+msgstr ""
+
+#: contact_form.php:101
+msgid "Contact form"
+msgstr ""
+
+#: contact_form.php:107 post-type-doctors.php:490 post-type-features.php:358 post-type-gallery.php:479
+#: shortcodes/announcement_box.php:49 shortcodes/blog.php:293 shortcodes/carousel.php:392 shortcodes/icon.php:146
+#: shortcodes/items_list.php:103 shortcodes/map.php:86 shortcodes/notification_box.php:36
+#: shortcodes/photostream.php:130 shortcodes/pricing_table.php:23 shortcodes/shortcodes.php:110
+#: shortcodes/shortcodes.php:187 shortcodes/shortcodes.php:281 shortcodes/shortcodes.php:327
+#: shortcodes/single-post.php:198 shortcodes/small_slider.php:362 shortcodes/testimonials.php:220
+#: shortcodes/timetable.php:444
+msgid "MediCenter"
+msgstr ""
+
+#: contact_form.php:112 post-type-doctors.php:591 post-type-gallery.php:580 shortcodes/carousel.php:167
+#: shortcodes/map.php:91 shortcodes/photostream.php:135 shortcodes/pricing_table.php:28 shortcodes/shortcodes.php:192
+#: shortcodes/small_slider.php:138 shortcodes/testimonials.php:62
+msgid "Id"
+msgstr ""
+
+#: contact_form.php:115
+msgid "Please provide unique id for each contact form on the same page/post"
+msgstr ""
+
+#: contact_form.php:120 post-type-doctors.php:501 post-type-gallery.php:490 shortcodes/announcement_box.php:55
+#: shortcodes/carousel.php:175 shortcodes/items_list.php:116 shortcodes/notification_box.php:41
+#: shortcodes/testimonials.php:70 theme-options.php:678 theme-options.php:1639
+msgid "Header"
+msgstr ""
+
+#: contact_form.php:127 post-type-doctors.php:508 post-type-gallery.php:497 shortcodes/carousel.php:182
+#: shortcodes/items_list.php:123 shortcodes/testimonials.php:77
+msgid "Header border animation"
+msgstr ""
+
+#: contact_form.php:129 contact_form.php:136 layout_picker/layout_picker.php:87 meta-box.php:160
+#: post-type-doctors.php:340 post-type-doctors.php:510 post-type-gallery.php:318 post-type-gallery.php:499
+#: shortcodes/carousel.php:184 shortcodes/items_list.php:125 shortcodes/map.php:160 shortcodes/map.php:167
+#: shortcodes/map.php:174 shortcodes/shortcodes.php:132 shortcodes/shortcodes.php:139 shortcodes/testimonials.php:79
+#: sidebars.php:105 sidebars.php:166 theme-options.php:749 theme-options.php:767 theme-options.php:859
+#: theme-options.php:868 widgets/widget-appointment.php:128 widgets/widget-contact-details.php:193
+#: widgets/widget-departments.php:174 widgets/widget-scrolling-most-commented.php:103
+#: widgets/widget-scrolling-most-viewed.php:102 widgets/widget-scrolling-recent-posts.php:95
+#: widgets/widget-twitter.php:118
+msgid "no"
+msgstr ""
+
+#: contact_form.php:129 contact_form.php:136 layout_picker/layout_picker.php:86 meta-box.php:159
+#: post-type-doctors.php:339 post-type-doctors.php:510 post-type-gallery.php:317 post-type-gallery.php:499
+#: shortcodes/carousel.php:184 shortcodes/items_list.php:125 shortcodes/map.php:160 shortcodes/map.php:167
+#: shortcodes/map.php:174 shortcodes/shortcodes.php:132 shortcodes/shortcodes.php:139 shortcodes/testimonials.php:79
+#: sidebars.php:106 sidebars.php:166 theme-options.php:748 theme-options.php:768 theme-options.php:858
+#: theme-options.php:867 widgets/widget-appointment.php:129 widgets/widget-contact-details.php:194
+#: widgets/widget-departments.php:175 widgets/widget-scrolling-most-commented.php:104
+#: widgets/widget-scrolling-most-viewed.php:103 widgets/widget-scrolling-recent-posts.php:96
+#: widgets/widget-twitter.php:119
+msgid "yes"
+msgstr ""
+
+#: contact_form.php:134
+msgid "Display department select box"
+msgstr ""
+
+#: contact_form.php:141
+msgid "Department select box title"
+msgstr ""
+
+#: contact_form.php:148 post-type-doctors.php:785 post-type-features.php:464 post-type-gallery.php:774
+#: shortcodes/announcement_box.php:181 shortcodes/blog.php:521 shortcodes/carousel.php:380 shortcodes/icon.php:238
+#: shortcodes/items_list.php:180 shortcodes/map.php:214 shortcodes/notification_box.php:100
+#: shortcodes/photostream.php:196 shortcodes/pricing_table.php:35 shortcodes/shortcodes.php:153
+#: shortcodes/shortcodes.php:256 shortcodes/small_slider.php:350 shortcodes/testimonials.php:208
+#: shortcodes/timetable.php:512
+msgid "Top margin"
+msgstr ""
+
+#: contact_form.php:150 post-type-doctors.php:787 post-type-features.php:466 post-type-gallery.php:776
+#: shortcodes/announcement_box.php:183 shortcodes/blog.php:523 shortcodes/carousel.php:382 shortcodes/icon.php:240
+#: shortcodes/items_list.php:132 shortcodes/items_list.php:182 shortcodes/map.php:216
+#: shortcodes/notification_box.php:102 shortcodes/photostream.php:198 shortcodes/pricing_table.php:37
+#: shortcodes/shortcodes.php:155 shortcodes/shortcodes.php:258 shortcodes/small_slider.php:352
+#: shortcodes/testimonials.php:210 shortcodes/timetable.php:514
+msgid "Page (small)"
+msgstr ""
+
+#: contact_form.php:150 post-type-doctors.php:787 post-type-features.php:466 post-type-gallery.php:776
+#: shortcodes/announcement_box.php:183 shortcodes/blog.php:523 shortcodes/carousel.php:382 shortcodes/icon.php:240
+#: shortcodes/items_list.php:132 shortcodes/items_list.php:182 shortcodes/map.php:216
+#: shortcodes/notification_box.php:102 shortcodes/photostream.php:198 shortcodes/pricing_table.php:37
+#: shortcodes/shortcodes.php:155 shortcodes/shortcodes.php:258 shortcodes/small_slider.php:352
+#: shortcodes/testimonials.php:210 shortcodes/timetable.php:514
+msgid "Section (large)"
+msgstr ""
+
+#: contact_form.php:150 post-type-doctors.php:787 post-type-features.php:466 post-type-gallery.php:776
+#: shortcodes/announcement_box.php:183 shortcodes/blog.php:523 shortcodes/carousel.php:382 shortcodes/icon.php:240
+#: shortcodes/items_list.php:132 shortcodes/items_list.php:182 shortcodes/map.php:216
+#: shortcodes/notification_box.php:102 shortcodes/photostream.php:198 shortcodes/pricing_table.php:37
+#: shortcodes/shortcodes.php:155 shortcodes/shortcodes.php:258 shortcodes/small_slider.php:352
+#: shortcodes/testimonials.php:210 shortcodes/timetable.php:514
+msgid "None"
+msgstr ""
+
+#: contact_form.php:224
+msgid "Thank you for contacting us"
+msgstr ""
+
+#: contact_form.php:228
+msgid "Sorry, we can't send this message"
+msgstr ""
+
+#: contact_form.php:235
+msgid "Please enter your first name."
+msgstr ""
+
+#: contact_form.php:237
+msgid "Please enter your last name."
+msgstr ""
+
+#: contact_form.php:239
+msgid "Please enter valid e-mail."
+msgstr ""
+
+#: contact_form.php:241
+msgid "Please enter your message."
+msgstr ""
+
+#: functions.php:169
+msgid "Blog post thumbnail"
+msgstr ""
+
+#: functions.php:170
+msgid "Gallery image"
+msgstr ""
+
+#: functions.php:171
+msgid "Gallery thumbnail"
+msgstr ""
+
+#: functions.php:172
+msgid "Small thumbnail"
+msgstr ""
+
+#: importer/parsers.php:42 importer/parsers.php:72 importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: importer/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: importer/parsers.php:84 importer/parsers.php:89 importer/parsers.php:279 importer/parsers.php:468
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: importer/wordpress-importer.php:134 importer/wordpress-importer.php:143 importer/wordpress-importer.php:194
+#: importer/wordpress-importer.php:198 importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: importer/wordpress-importer.php:215
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: importer/wordpress-importer.php:240
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported "
+"item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s "
+"entries."
+msgstr ""
+
+#: importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will "
+"be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: importer/wordpress-importer.php:374
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:511 importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to ensure compatibility with newer export "
+"files."
+msgstr ""
+
+#: importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom "
+"fields, categories, and tags into this site."
+msgstr ""
+
+#: importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: layout_picker/layout_picker.php:6 post-type-doctors.php:536 post-type-gallery.php:525
+msgid "Layout"
+msgstr ""
+
+#: layout_picker/layout_picker.php:10
+msgid "Wide"
+msgstr ""
+
+#: layout_picker/layout_picker.php:11
+msgid "Boxed"
+msgstr ""
+
+#: layout_picker/layout_picker.php:12
+msgid "Full width"
+msgstr ""
+
+#: layout_picker/layout_picker.php:16
+msgid "Color Skin"
+msgstr ""
+
+#: layout_picker/layout_picker.php:42
+msgid "Header type"
+msgstr ""
+
+#: layout_picker/layout_picker.php:46 shortcodes/blog.php:322 shortcodes/single-post.php:212 theme-options.php:1645
+msgid "Type 1"
+msgstr ""
+
+#: layout_picker/layout_picker.php:47 shortcodes/blog.php:322 shortcodes/single-post.php:212 theme-options.php:1646
+msgid "Type 2"
+msgstr ""
+
+#: layout_picker/layout_picker.php:48 theme-options.php:1647
+msgid "Type 3"
+msgstr ""
+
+#: layout_picker/layout_picker.php:49 theme-options.php:1648
+msgid "Type 4"
+msgstr ""
+
+#: layout_picker/layout_picker.php:53
+msgid "Top sidebar"
+msgstr ""
+
+#: layout_picker/layout_picker.php:57 layout_picker/layout_picker.php:68 post-type-doctors.php:552
+#: post-type-doctors.php:559 post-type-doctors.php:602 post-type-doctors.php:610 post-type-doctors.php:702
+#: post-type-doctors.php:724 post-type-doctors.php:740 post-type-doctors.php:747 post-type-features.php:407
+#: post-type-features.php:414 post-type-features.php:421 post-type-features.php:428 post-type-gallery.php:541
+#: post-type-gallery.php:548 post-type-gallery.php:591 post-type-gallery.php:599 post-type-gallery.php:691
+#: post-type-gallery.php:713 post-type-gallery.php:729 post-type-gallery.php:736 shortcodes/blog.php:300
+#: shortcodes/blog.php:357 shortcodes/blog.php:364 shortcodes/blog.php:371 shortcodes/blog.php:378
+#: shortcodes/blog.php:385 shortcodes/blog.php:393 shortcodes/blog.php:401 shortcodes/blog.php:477
+#: shortcodes/blog.php:484 shortcodes/carousel.php:243 shortcodes/carousel.php:283 shortcodes/carousel.php:290
+#: shortcodes/items_list.php:159 shortcodes/photostream.php:159 shortcodes/single-post.php:219
+#: shortcodes/single-post.php:226 shortcodes/single-post.php:233 shortcodes/single-post.php:240
+#: shortcodes/single-post.php:320 shortcodes/single-post.php:328 shortcodes/single-post.php:336
+#: shortcodes/small_slider.php:206 shortcodes/small_slider.php:246 shortcodes/small_slider.php:253
+#: shortcodes/small_slider.php:260 shortcodes/testimonials.php:111 shortcodes/testimonials.php:118
+msgid "No"
+msgstr ""
+
+#: layout_picker/layout_picker.php:58 layout_picker/layout_picker.php:67 post-type-doctors.php:552
+#: post-type-doctors.php:559 post-type-doctors.php:602 post-type-doctors.php:610 post-type-doctors.php:702
+#: post-type-doctors.php:724 post-type-doctors.php:740 post-type-doctors.php:747 post-type-features.php:407
+#: post-type-features.php:414 post-type-features.php:421 post-type-features.php:428 post-type-gallery.php:541
+#: post-type-gallery.php:548 post-type-gallery.php:591 post-type-gallery.php:599 post-type-gallery.php:691
+#: post-type-gallery.php:713 post-type-gallery.php:729 post-type-gallery.php:736 shortcodes/blog.php:300
+#: shortcodes/blog.php:357 shortcodes/blog.php:364 shortcodes/blog.php:371 shortcodes/blog.php:378
+#: shortcodes/blog.php:385 shortcodes/blog.php:393 shortcodes/blog.php:401 shortcodes/blog.php:477
+#: shortcodes/blog.php:484 shortcodes/carousel.php:243 shortcodes/carousel.php:283 shortcodes/carousel.php:290
+#: shortcodes/items_list.php:159 shortcodes/photostream.php:159 shortcodes/single-post.php:219
+#: shortcodes/single-post.php:226 shortcodes/single-post.php:233 shortcodes/single-post.php:240
+#: shortcodes/single-post.php:320 shortcodes/single-post.php:328 shortcodes/single-post.php:336
+#: shortcodes/small_slider.php:206 shortcodes/small_slider.php:246 shortcodes/small_slider.php:253
+#: shortcodes/small_slider.php:260 shortcodes/testimonials.php:111 shortcodes/testimonials.php:118
+msgid "Yes"
+msgstr ""
+
+#: layout_picker/layout_picker.php:63
+msgid "2nd sidebar"
+msgstr ""
+
+#: layout_picker/layout_picker.php:73 theme-options.php:773
+msgid "Direction"
+msgstr ""
+
+#: layout_picker/layout_picker.php:77 theme-options.php:777
+msgid "LTR"
+msgstr ""
+
+#: layout_picker/layout_picker.php:78 theme-options.php:778
+msgid "RTL"
+msgstr ""
+
+#: layout_picker/layout_picker.php:82 theme-options.php:783
+msgid "Animations"
+msgstr ""
+
+#: meta-box.php:8 meta-box.php:16 post-type-departments.php:120 post-type-doctors.php:40 post-type-features.php:40
+#: post-type-gallery.php:40 sidebars.php:41
+msgid "Options"
+msgstr ""
+
+#: meta-box.php:94 post-type-doctors.php:270 post-type-gallery.php:248
+msgid "Additional featured images"
+msgstr ""
+
+#: meta-box.php:105 post-type-doctors.php:281 post-type-gallery.php:259
+msgid "Image url"
+msgstr ""
+
+#: meta-box.php:110 post-type-doctors.php:286 post-type-gallery.php:264 theme-options.php:827
+msgid "Browse"
+msgstr ""
+
+#: meta-box.php:115 post-type-doctors.php:291 post-type-gallery.php:269
+msgid "Image description"
+msgstr ""
+
+#: meta-box.php:123 post-type-doctors.php:299 post-type-gallery.php:277 shortcodes/carousel.php:198
+#: shortcodes/small_slider.php:169
+msgid "Video url"
+msgstr ""
+
+#: meta-box.php:131 post-type-doctors.php:307 post-type-gallery.php:285 shortcodes/carousel.php:207
+#: shortcodes/small_slider.php:178
+msgid "Iframe url"
+msgstr ""
+
+#: meta-box.php:139 post-type-doctors.php:315 post-type-gallery.php:293 shortcodes/carousel.php:215
+#: shortcodes/small_slider.php:186
+msgid "External url"
+msgstr ""
+
+#: meta-box.php:150 post-type-doctors.php:329 post-type-gallery.php:307
+msgid "Add image"
+msgstr ""
+
+#: meta-box.php:155
+msgid "Features images lightbox loop"
+msgstr ""
+
+#: meta-box.php:166
+msgid "Show featured images lightbox"
+msgstr ""
+
+#: meta-box.php:170
+msgid "in single post"
+msgstr ""
+
+#: meta-box.php:171
+msgid "on post list"
+msgstr ""
+
+#: meta-box.php:172
+msgid "both"
+msgstr ""
+
+#: post-type-departments.php:12
+msgid "Add New Department"
+msgstr ""
+
+#: post-type-departments.php:13
+msgid "Edit Department"
+msgstr ""
+
+#: post-type-departments.php:14
+msgid "New Department"
+msgstr ""
+
+#: post-type-departments.php:15 post-type-gallery.php:573 shortcodes/timetable.php:11 shortcodes/timetable.php:507
+msgid "All Departments"
+msgstr ""
+
+#: post-type-departments.php:16
+msgid "View Department"
+msgstr ""
+
+#: post-type-departments.php:17
+msgid "Search Department"
+msgstr ""
+
+#: post-type-departments.php:18
+msgid "No departments found"
+msgstr ""
+
+#: post-type-departments.php:19
+msgid "No departments found in Trash"
+msgstr ""
+
+#: post-type-departments.php:21
+msgid "Departments"
+msgstr ""
+
+#: post-type-departments.php:113
+msgid "Department hours"
+msgstr ""
+
+#: post-type-departments.php:193 post-type-departments.php:256
+msgid "Tooltip"
+msgstr ""
+
+#: post-type-departments.php:195 post-type-departments.php:240
+msgid "Before hour text"
+msgstr ""
+
+#: post-type-departments.php:197 post-type-departments.php:248
+msgid "After hour text"
+msgstr ""
+
+#: post-type-departments.php:199
+msgid "doctors"
+msgstr ""
+
+#: post-type-departments.php:201 post-type-departments.php:289
+msgid "Category"
+msgstr ""
+
+#: post-type-departments.php:211
+msgid "Day"
+msgstr ""
+
+#: post-type-departments.php:222
+msgid "Start hour"
+msgstr ""
+
+#: post-type-departments.php:231
+msgid "End hour"
+msgstr ""
+
+#: post-type-departments.php:267 post-type-departments.php:321 post-type-doctors.php:18
+msgid "Doctors"
+msgstr ""
+
+#: post-type-departments.php:297
+msgid "Add"
+msgstr ""
+
+#: post-type-departments.php:343 theme-options.php:1511
+msgid "Timetable box background color"
+msgstr ""
+
+#: post-type-departments.php:348
+msgid "Required when 'Timetable box hover color' isn't empty"
+msgstr ""
+
+#: post-type-departments.php:353 theme-options.php:1518
+msgid "Timetable box hover background color"
+msgstr ""
+
+#: post-type-departments.php:362 theme-options.php:1525
+msgid "Timetable box text color"
+msgstr ""
+
+#: post-type-departments.php:367
+msgid "Required when 'Timetable box hover text color' isn't empty"
+msgstr ""
+
+#: post-type-departments.php:372 theme-options.php:1532
+msgid "Timetable box hover text color"
+msgstr ""
+
+#: post-type-departments.php:381 theme-options.php:1539
+msgid "Timetable box hours text color"
+msgstr ""
+
+#: post-type-departments.php:386
+msgid "Required when 'Timetable box hover hours text color' isn't empty"
+msgstr ""
+
+#: post-type-departments.php:391 theme-options.php:1546
+msgid "Timetable box hover hours text color"
+msgstr ""
+
+#: post-type-departments.php:400
+msgid "Timetable custom URL"
+msgstr ""
+
+#: post-type-departments.php:471 post-type-doctors.php:400 post-type-features.php:227 post-type-gallery.php:380
+#: widgets/widget-departments.php:186
+msgid "Categories"
+msgstr ""
+
+#: post-type-departments.php:472 post-type-doctors.php:401 post-type-doctors.php:517 post-type-features.php:229
+#: post-type-features.php:393 post-type-gallery.php:381 post-type-gallery.php:506 post-type-weekdays.php:42
+#: shortcodes/blog.php:343 sidebars.php:149
+msgid "Date"
+msgstr ""
+
+#: post-type-departments.php:533 post-type-doctors.php:531 post-type-gallery.php:520
+#: widgets/widget-departments.php:103
+msgid "Details"
+msgstr ""
+
+#: post-type-departments.php:534 shortcodes/timetable.php:438 widgets/widget-departments.php:102
+msgid "Timetable"
+msgstr ""
+
+#: post-type-doctors.php:9
+msgid "Add New Doctor"
+msgstr ""
+
+#: post-type-doctors.php:10
+msgid "Edit Doctor"
+msgstr ""
+
+#: post-type-doctors.php:11
+msgid "New Doctor"
+msgstr ""
+
+#: post-type-doctors.php:12 post-type-doctors.php:584
+msgid "All Doctors"
+msgstr ""
+
+#: post-type-doctors.php:13
+msgid "View Doctor"
+msgstr ""
+
+#: post-type-doctors.php:14
+msgid "Search Doctor"
+msgstr ""
+
+#: post-type-doctors.php:15
+msgid "No doctors found"
+msgstr ""
+
+#: post-type-doctors.php:16
+msgid "No doctors found in Trash"
+msgstr ""
+
+#: post-type-doctors.php:103 post-type-gallery.php:103 shortcodes/small_slider.php:153
+msgid "Subtitle"
+msgstr ""
+
+#: post-type-doctors.php:111 post-type-gallery.php:111
+msgid "Featured image description"
+msgstr ""
+
+#: post-type-doctors.php:119 post-type-gallery.php:119
+msgid "Video URL (optional)"
+msgstr ""
+
+#: post-type-doctors.php:123 post-type-gallery.php:123 shortcodes/carousel.php:202 shortcodes/small_slider.php:173
+msgid "For Vimeo please use http://player.vimeo.com/video/%video_id% For YouTube: http://youtube.com/embed/%video_id%"
+msgstr ""
+
+#: post-type-doctors.php:128 post-type-gallery.php:128
+msgid "Ifame URL (optional)"
+msgstr ""
+
+#: post-type-doctors.php:136 post-type-gallery.php:136
+msgid "External URL (optional)"
+msgstr ""
+
+#: post-type-doctors.php:144 post-type-gallery.php:144
+msgid "External URL target"
+msgstr ""
+
+#: post-type-doctors.php:155
+msgid "Timetable page"
+msgstr ""
+
+#: post-type-doctors.php:180 post-type-gallery.php:158
+msgid "Social icons"
+msgstr ""
+
+#: post-type-doctors.php:191 post-type-gallery.php:169 widgets/widget-appointment.php:145
+#: widgets/widget-contact-details.php:238
+msgid "Icon type"
+msgstr ""
+
+#: post-type-doctors.php:205 post-type-gallery.php:183
+msgid "Icon url"
+msgstr ""
+
+#: post-type-doctors.php:213 post-type-gallery.php:191
+msgid "Icon target"
+msgstr ""
+
+#: post-type-doctors.php:224 post-type-features.php:163 post-type-gallery.php:202 shortcodes/icon.php:174
+msgid "Icon color"
+msgstr ""
+
+#: post-type-doctors.php:228 post-type-doctors.php:756 post-type-features.php:167 post-type-gallery.php:206
+#: post-type-gallery.php:745 shortcodes/blog.php:492 shortcodes/carousel.php:252 shortcodes/icon.php:177
+#: shortcodes/photostream.php:167 shortcodes/single-post.php:289 shortcodes/small_slider.php:215
+#: widgets/widget-appointment.php:158 widgets/widget-contact-details.php:251 widgets/widget-footer-box.php:122
+#: widgets/widget-home-box.php:142 widgets/widget-home-box.php:213 widgets/widget-home-box.php:247
+msgid "light blue"
+msgstr ""
+
+#: post-type-doctors.php:229 post-type-doctors.php:758 post-type-features.php:168 post-type-gallery.php:207
+#: post-type-gallery.php:747 shortcodes/blog.php:494 shortcodes/carousel.php:254 shortcodes/icon.php:179
+#: shortcodes/photostream.php:169 shortcodes/single-post.php:291 shortcodes/small_slider.php:217 theme-options.php:695
+#: widgets/widget-appointment.php:159 widgets/widget-contact-details.php:252 widgets/widget-footer-box.php:123
+#: widgets/widget-home-box.php:143 widgets/widget-home-box.php:214 widgets/widget-home-box.php:248
+msgid "blue"
+msgstr ""
+
+#: post-type-doctors.php:230 post-type-doctors.php:757 post-type-features.php:169 post-type-gallery.php:208
+#: post-type-gallery.php:746 shortcodes/blog.php:493 shortcodes/carousel.php:253 shortcodes/icon.php:178
+#: shortcodes/photostream.php:168 shortcodes/single-post.php:290 shortcodes/small_slider.php:216
+#: widgets/widget-appointment.php:160 widgets/widget-contact-details.php:253 widgets/widget-footer-box.php:124
+#: widgets/widget-home-box.php:144 widgets/widget-home-box.php:215 widgets/widget-home-box.php:249
+msgid "dark blue"
+msgstr ""
+
+#: post-type-doctors.php:231 post-type-doctors.php:759 post-type-features.php:170 post-type-gallery.php:209
+#: post-type-gallery.php:748 shortcodes/blog.php:495 shortcodes/carousel.php:255 shortcodes/icon.php:180
+#: shortcodes/photostream.php:170 shortcodes/single-post.php:292 shortcodes/small_slider.php:218
+#: widgets/widget-appointment.php:161 widgets/widget-contact-details.php:254 widgets/widget-footer-box.php:125
+#: widgets/widget-home-box.php:145 widgets/widget-home-box.php:216 widgets/widget-home-box.php:250
+msgid "black"
+msgstr ""
+
+#: post-type-doctors.php:232 post-type-doctors.php:760 post-type-features.php:171 post-type-gallery.php:210
+#: post-type-gallery.php:749 shortcodes/blog.php:496 shortcodes/carousel.php:256 shortcodes/icon.php:181
+#: shortcodes/photostream.php:171 shortcodes/single-post.php:293 shortcodes/small_slider.php:219
+#: widgets/widget-appointment.php:162 widgets/widget-contact-details.php:255 widgets/widget-footer-box.php:126
+#: widgets/widget-home-box.php:146 widgets/widget-home-box.php:217 widgets/widget-home-box.php:251
+msgid "gray"
+msgstr ""
+
+#: post-type-doctors.php:233 post-type-doctors.php:761 post-type-features.php:172 post-type-gallery.php:211
+#: post-type-gallery.php:750 shortcodes/blog.php:497 shortcodes/carousel.php:257 shortcodes/icon.php:182
+#: shortcodes/photostream.php:172 shortcodes/single-post.php:294 shortcodes/small_slider.php:220
+#: widgets/widget-appointment.php:163 widgets/widget-contact-details.php:256 widgets/widget-footer-box.php:127
+#: widgets/widget-home-box.php:147 widgets/widget-home-box.php:218 widgets/widget-home-box.php:252
+msgid "dark gray"
+msgstr ""
+
+#: post-type-doctors.php:234 post-type-doctors.php:762 post-type-features.php:173 post-type-gallery.php:212
+#: post-type-gallery.php:751 shortcodes/blog.php:498 shortcodes/carousel.php:258 shortcodes/icon.php:183
+#: shortcodes/photostream.php:173 shortcodes/single-post.php:295 shortcodes/small_slider.php:221
+#: widgets/widget-appointment.php:164 widgets/widget-contact-details.php:257 widgets/widget-footer-box.php:128
+#: widgets/widget-home-box.php:148 widgets/widget-home-box.php:219 widgets/widget-home-box.php:253
+msgid "light gray"
+msgstr ""
+
+#: post-type-doctors.php:235 post-type-doctors.php:763 post-type-features.php:174 post-type-gallery.php:213
+#: post-type-gallery.php:752 shortcodes/blog.php:499 shortcodes/carousel.php:259 shortcodes/icon.php:184
+#: shortcodes/photostream.php:174 shortcodes/single-post.php:296 shortcodes/small_slider.php:222 theme-options.php:697
+#: theme-options.php:1037 widgets/widget-appointment.php:165 widgets/widget-contact-details.php:258
+#: widgets/widget-footer-box.php:129 widgets/widget-home-box.php:149 widgets/widget-home-box.php:220
+#: widgets/widget-home-box.php:254
+msgid "green"
+msgstr ""
+
+#: post-type-doctors.php:236 post-type-doctors.php:764 post-type-features.php:175 post-type-gallery.php:214
+#: post-type-gallery.php:753 shortcodes/blog.php:500 shortcodes/carousel.php:260 shortcodes/icon.php:185
+#: shortcodes/photostream.php:175 shortcodes/single-post.php:297 shortcodes/small_slider.php:223
+#: widgets/widget-appointment.php:166 widgets/widget-contact-details.php:259 widgets/widget-footer-box.php:130
+#: widgets/widget-home-box.php:150 widgets/widget-home-box.php:221 widgets/widget-home-box.php:255
+msgid "dark green"
+msgstr ""
+
+#: post-type-doctors.php:237 post-type-doctors.php:765 post-type-features.php:176 post-type-gallery.php:215
+#: post-type-gallery.php:754 shortcodes/blog.php:501 shortcodes/carousel.php:261 shortcodes/icon.php:186
+#: shortcodes/photostream.php:176 shortcodes/single-post.php:298 shortcodes/small_slider.php:224
+#: widgets/widget-appointment.php:167 widgets/widget-contact-details.php:260 widgets/widget-footer-box.php:131
+#: widgets/widget-home-box.php:151 widgets/widget-home-box.php:222 widgets/widget-home-box.php:256
+msgid "light green"
+msgstr ""
+
+#: post-type-doctors.php:238 post-type-doctors.php:766 post-type-features.php:177 post-type-gallery.php:216
+#: post-type-gallery.php:755 shortcodes/blog.php:502 shortcodes/carousel.php:262 shortcodes/icon.php:187
+#: shortcodes/photostream.php:177 shortcodes/single-post.php:299 shortcodes/small_slider.php:225 theme-options.php:699
+#: theme-options.php:1038 widgets/widget-appointment.php:168 widgets/widget-contact-details.php:261
+#: widgets/widget-footer-box.php:132 widgets/widget-home-box.php:152 widgets/widget-home-box.php:223
+#: widgets/widget-home-box.php:257
+msgid "orange"
+msgstr ""
+
+#: post-type-doctors.php:239 post-type-doctors.php:767 post-type-features.php:178 post-type-gallery.php:217
+#: post-type-gallery.php:756 shortcodes/blog.php:503 shortcodes/carousel.php:263 shortcodes/icon.php:188
+#: shortcodes/photostream.php:178 shortcodes/single-post.php:300 shortcodes/small_slider.php:226
+#: widgets/widget-appointment.php:169 widgets/widget-contact-details.php:262 widgets/widget-footer-box.php:133
+#: widgets/widget-home-box.php:153 widgets/widget-home-box.php:224 widgets/widget-home-box.php:258
+msgid "dark orange"
+msgstr ""
+
+#: post-type-doctors.php:240 post-type-doctors.php:768 post-type-features.php:179 post-type-gallery.php:218
+#: post-type-gallery.php:757 shortcodes/blog.php:504 shortcodes/carousel.php:264 shortcodes/icon.php:189
+#: shortcodes/photostream.php:179 shortcodes/single-post.php:301 shortcodes/small_slider.php:227
+#: widgets/widget-appointment.php:170 widgets/widget-contact-details.php:263 widgets/widget-footer-box.php:134
+#: widgets/widget-home-box.php:154 widgets/widget-home-box.php:225 widgets/widget-home-box.php:259
+msgid "light orange"
+msgstr ""
+
+#: post-type-doctors.php:241 post-type-doctors.php:769 post-type-features.php:180 post-type-gallery.php:219
+#: post-type-gallery.php:758 shortcodes/blog.php:505 shortcodes/carousel.php:265 shortcodes/icon.php:190
+#: shortcodes/photostream.php:180 shortcodes/single-post.php:302 shortcodes/small_slider.php:228 theme-options.php:701
+#: theme-options.php:1039 widgets/widget-appointment.php:171 widgets/widget-contact-details.php:264
+#: widgets/widget-footer-box.php:135 widgets/widget-home-box.php:155 widgets/widget-home-box.php:226
+#: widgets/widget-home-box.php:260
+msgid "red"
+msgstr ""
+
+#: post-type-doctors.php:242 post-type-doctors.php:770 post-type-features.php:181 post-type-gallery.php:220
+#: post-type-gallery.php:759 shortcodes/blog.php:506 shortcodes/carousel.php:266 shortcodes/icon.php:191
+#: shortcodes/photostream.php:181 shortcodes/single-post.php:303 shortcodes/small_slider.php:229
+#: widgets/widget-appointment.php:172 widgets/widget-contact-details.php:265 widgets/widget-footer-box.php:136
+#: widgets/widget-home-box.php:156 widgets/widget-home-box.php:227 widgets/widget-home-box.php:261
+msgid "dark red"
+msgstr ""
+
+#: post-type-doctors.php:243 post-type-doctors.php:771 post-type-features.php:182 post-type-gallery.php:221
+#: post-type-gallery.php:760 shortcodes/blog.php:507 shortcodes/carousel.php:267 shortcodes/icon.php:192
+#: shortcodes/photostream.php:182 shortcodes/single-post.php:304 shortcodes/small_slider.php:230
+#: widgets/widget-appointment.php:173 widgets/widget-contact-details.php:266 widgets/widget-footer-box.php:137
+#: widgets/widget-home-box.php:157 widgets/widget-home-box.php:228 widgets/widget-home-box.php:262
+msgid "light red"
+msgstr ""
+
+#: post-type-doctors.php:244 post-type-doctors.php:772 post-type-features.php:183 post-type-gallery.php:222
+#: post-type-gallery.php:761 shortcodes/blog.php:508 shortcodes/carousel.php:268 shortcodes/icon.php:193
+#: shortcodes/photostream.php:183 shortcodes/single-post.php:305 shortcodes/small_slider.php:231 theme-options.php:703
+#: theme-options.php:1040 widgets/widget-appointment.php:174 widgets/widget-contact-details.php:267
+#: widgets/widget-footer-box.php:138 widgets/widget-home-box.php:158 widgets/widget-home-box.php:229
+#: widgets/widget-home-box.php:263
+msgid "turquoise"
+msgstr ""
+
+#: post-type-doctors.php:245 post-type-doctors.php:773 post-type-features.php:184 post-type-gallery.php:223
+#: post-type-gallery.php:762 shortcodes/blog.php:509 shortcodes/carousel.php:269 shortcodes/icon.php:194
+#: shortcodes/photostream.php:184 shortcodes/single-post.php:306 shortcodes/small_slider.php:232
+#: widgets/widget-appointment.php:175 widgets/widget-contact-details.php:268 widgets/widget-footer-box.php:139
+#: widgets/widget-home-box.php:159 widgets/widget-home-box.php:230 widgets/widget-home-box.php:264
+msgid "dark turquoise"
+msgstr ""
+
+#: post-type-doctors.php:246 post-type-doctors.php:774 post-type-features.php:185 post-type-gallery.php:224
+#: post-type-gallery.php:763 shortcodes/blog.php:510 shortcodes/carousel.php:270 shortcodes/icon.php:195
+#: shortcodes/photostream.php:185 shortcodes/single-post.php:307 shortcodes/small_slider.php:233
+#: widgets/widget-appointment.php:176 widgets/widget-contact-details.php:269 widgets/widget-footer-box.php:140
+#: widgets/widget-home-box.php:160 widgets/widget-home-box.php:231 widgets/widget-home-box.php:265
+msgid "light turquoise"
+msgstr ""
+
+#: post-type-doctors.php:247 post-type-doctors.php:775 post-type-features.php:186 post-type-gallery.php:225
+#: post-type-gallery.php:764 shortcodes/blog.php:511 shortcodes/carousel.php:271 shortcodes/icon.php:196
+#: shortcodes/photostream.php:186 shortcodes/single-post.php:308 shortcodes/small_slider.php:234 theme-options.php:705
+#: theme-options.php:1041 widgets/widget-appointment.php:177 widgets/widget-contact-details.php:270
+#: widgets/widget-footer-box.php:141 widgets/widget-home-box.php:161 widgets/widget-home-box.php:232
+#: widgets/widget-home-box.php:266
+msgid "violet"
+msgstr ""
+
+#: post-type-doctors.php:248 post-type-doctors.php:776 post-type-features.php:187 post-type-gallery.php:226
+#: post-type-gallery.php:765 shortcodes/blog.php:512 shortcodes/carousel.php:272 shortcodes/icon.php:197
+#: shortcodes/photostream.php:187 shortcodes/single-post.php:309 shortcodes/small_slider.php:235
+#: widgets/widget-appointment.php:178 widgets/widget-contact-details.php:271 widgets/widget-footer-box.php:142
+#: widgets/widget-home-box.php:162 widgets/widget-home-box.php:233 widgets/widget-home-box.php:267
+msgid "dark violet"
+msgstr ""
+
+#: post-type-doctors.php:249 post-type-doctors.php:777 post-type-features.php:188 post-type-gallery.php:227
+#: post-type-gallery.php:766 shortcodes/blog.php:513 shortcodes/carousel.php:273 shortcodes/icon.php:198
+#: shortcodes/photostream.php:188 shortcodes/single-post.php:310 shortcodes/small_slider.php:236
+#: widgets/widget-appointment.php:179 widgets/widget-contact-details.php:272 widgets/widget-footer-box.php:143
+#: widgets/widget-home-box.php:163 widgets/widget-home-box.php:234 widgets/widget-home-box.php:268
+msgid "light violet"
+msgstr ""
+
+#: post-type-doctors.php:250 post-type-doctors.php:778 post-type-features.php:189 post-type-gallery.php:228
+#: post-type-gallery.php:767 shortcodes/blog.php:514 shortcodes/carousel.php:274 shortcodes/icon.php:199
+#: shortcodes/photostream.php:189 shortcodes/single-post.php:311 shortcodes/small_slider.php:237
+#: widgets/widget-appointment.php:180 widgets/widget-contact-details.php:273 widgets/widget-footer-box.php:144
+#: widgets/widget-home-box.php:164 widgets/widget-home-box.php:235 widgets/widget-home-box.php:245
+#: widgets/widget-home-box.php:269
+msgid "white"
+msgstr ""
+
+#: post-type-doctors.php:251 post-type-doctors.php:779 post-type-features.php:190 post-type-gallery.php:229
+#: post-type-gallery.php:768 shortcodes/blog.php:515 shortcodes/carousel.php:275 shortcodes/icon.php:200
+#: shortcodes/photostream.php:190 shortcodes/single-post.php:312 shortcodes/small_slider.php:238
+#: widgets/widget-appointment.php:181 widgets/widget-contact-details.php:274 widgets/widget-footer-box.php:145
+#: widgets/widget-home-box.php:165 widgets/widget-home-box.php:236 widgets/widget-home-box.php:270
+msgid "yellow"
+msgstr ""
+
+#: post-type-doctors.php:263 post-type-gallery.php:241 widgets/widget-appointment.php:193
+#: widgets/widget-contact-details.php:286
+msgid "Add icon"
+msgstr ""
+
+#: post-type-doctors.php:335 post-type-gallery.php:313 shortcodes/photostream.php:157
+msgid "Featured images lightbox loop"
+msgstr ""
+
+#: post-type-doctors.php:436 post-type-doctors.php:443 post-type-features.php:340 post-type-features.php:347
+#: post-type-gallery.php:425 post-type-gallery.php:432 shortcodes/blog.php:257 shortcodes/blog.php:264
+#: shortcodes/timetable.php:401 shortcodes/timetable.php:434
+msgid "All"
+msgstr ""
+
+#: post-type-doctors.php:466 post-type-gallery.php:455 shortcodes/blog.php:270 shortcodes/photostream.php:107
+#: shortcodes/single-post.php:175 theme-options.php:776 theme-options.php:1709 theme-options.php:1742
+msgid "Default"
+msgstr ""
+
+#: post-type-doctors.php:484
+msgid "Doctors list"
+msgstr ""
+
+#: post-type-doctors.php:503
+msgid "Meet The Team"
+msgstr ""
+
+#: post-type-doctors.php:515 post-type-features.php:391 post-type-gallery.php:504 shortcodes/blog.php:341
+#: shortcodes/timetable.php:477
+msgid "Order by"
+msgstr ""
+
+#: post-type-doctors.php:517 post-type-features.php:393 post-type-gallery.php:506 shortcodes/blog.php:343
+#: shortcodes/timetable.php:479
+msgid "Title, menu order"
+msgstr ""
+
+#: post-type-doctors.php:517 post-type-features.php:393 post-type-gallery.php:506 shortcodes/blog.php:343
+#: shortcodes/timetable.php:479
+msgid "Menu order"
+msgstr ""
+
+#: post-type-doctors.php:522 post-type-features.php:398 post-type-gallery.php:511 shortcodes/blog.php:348
+#: shortcodes/timetable.php:484 widgets/widget-departments.php:179
+msgid "Order"
+msgstr ""
+
+#: post-type-doctors.php:524 post-type-features.php:400 post-type-gallery.php:513 shortcodes/blog.php:350
+#: shortcodes/timetable.php:486
+msgid "ascending"
+msgstr ""
+
+#: post-type-doctors.php:524 post-type-features.php:400 post-type-gallery.php:513 shortcodes/blog.php:350
+#: shortcodes/timetable.php:486
+msgid "descending"
+msgstr ""
+
+#: post-type-doctors.php:531 post-type-gallery.php:520
+msgid "List with details"
+msgstr ""
+
+#: post-type-doctors.php:531 post-type-gallery.php:520
+msgid "List"
+msgstr ""
+
+#: post-type-doctors.php:538
+msgid "4 columns"
+msgstr ""
+
+#: post-type-doctors.php:538
+msgid "2 columns"
+msgstr ""
+
+#: post-type-doctors.php:538
+msgid "3 columns"
+msgstr ""
+
+#: post-type-doctors.php:543 post-type-gallery.php:532 shortcodes/blog.php:313 shortcodes/photostream.php:150
+#: shortcodes/single-post.php:203
+msgid "Featured image size"
+msgstr ""
+
+#: post-type-doctors.php:550 post-type-gallery.php:539 shortcodes/small_slider.php:244
+msgid "Hover icons"
+msgstr ""
+
+#: post-type-doctors.php:557 post-type-gallery.php:546
+msgid "Title box in details"
+msgstr ""
+
+#: post-type-doctors.php:565 post-type-gallery.php:554
+msgid "Details page"
+msgstr ""
+
+#: post-type-doctors.php:573 post-type-gallery.php:562
+msgid "Display method"
+msgstr ""
+
+#: post-type-doctors.php:575 post-type-gallery.php:564
+msgid "Filters"
+msgstr ""
+
+#: post-type-doctors.php:575 post-type-gallery.php:564 shortcodes/carousel.php:386
+msgid "Carousel"
+msgstr ""
+
+#: post-type-doctors.php:575 post-type-gallery.php:564 shortcodes/blog.php:298
+msgid "Pagination"
+msgstr ""
+
+#: post-type-doctors.php:575 post-type-gallery.php:564
+msgid "Simple"
+msgstr ""
+
+#: post-type-doctors.php:582 post-type-gallery.php:571
+msgid "All filter label"
+msgstr ""
+
+#: post-type-doctors.php:594 post-type-gallery.php:583 shortcodes/carousel.php:170 shortcodes/small_slider.php:141
+msgid "Please provide unique id for each carousel on the same page/post"
+msgstr ""
+
+#: post-type-doctors.php:600 post-type-gallery.php:589 shortcodes/carousel.php:281 shortcodes/small_slider.php:251
+#: shortcodes/testimonials.php:109
+msgid "Autoplay"
+msgstr ""
+
+#: post-type-doctors.php:608 post-type-gallery.php:597 shortcodes/carousel.php:288 shortcodes/small_slider.php:258
+#: shortcodes/testimonials.php:116
+msgid "Pause on hover"
+msgstr ""
+
+#: post-type-doctors.php:611 post-type-gallery.php:600
+msgid "Affect only when autoplay is set to yes"
+msgstr ""
+
+#: post-type-doctors.php:617 post-type-gallery.php:606 shortcodes/carousel.php:296 shortcodes/small_slider.php:266
+#: shortcodes/testimonials.php:124
+msgid "Scroll"
+msgstr ""
+
+#: post-type-doctors.php:620 post-type-gallery.php:609 shortcodes/carousel.php:299 shortcodes/small_slider.php:269
+#: shortcodes/testimonials.php:127
+msgid "Number of items to scroll in one step"
+msgstr ""
+
+#: post-type-doctors.php:626 post-type-gallery.php:615 shortcodes/carousel.php:304 shortcodes/small_slider.php:274
+#: shortcodes/testimonials.php:132
+msgid "Effect"
+msgstr ""
+
+#: post-type-doctors.php:629 post-type-gallery.php:618 shortcodes/carousel.php:307 shortcodes/small_slider.php:277
+#: shortcodes/testimonials.php:135 theme-options.php:899
+msgid "scroll"
+msgstr ""
+
+#: post-type-doctors.php:630 post-type-features.php:435 post-type-gallery.php:619 shortcodes/announcement_box.php:152
+#: shortcodes/blog.php:409 shortcodes/blog.php:443 shortcodes/carousel.php:308 shortcodes/shortcodes.php:350
+#: shortcodes/shortcodes.php:381 shortcodes/single-post.php:254 shortcodes/single-post.php:343
+#: shortcodes/single-post.php:374 shortcodes/small_slider.php:278 shortcodes/testimonials.php:136
+#: theme-options.php:900 theme-options.php:1672 theme-options.php:1688 widgets/widget-footer-box.php:154
+#: widgets/widget-home-box.php:279
+msgid "none"
+msgstr ""
+
+#: post-type-doctors.php:631 post-type-gallery.php:620 shortcodes/carousel.php:309 shortcodes/small_slider.php:279
+#: shortcodes/testimonials.php:137 theme-options.php:901
+msgid "directscroll"
+msgstr ""
+
+#: post-type-doctors.php:632 post-type-gallery.php:621 shortcodes/carousel.php:310 shortcodes/small_slider.php:280
+#: shortcodes/testimonials.php:138 theme-options.php:902
+msgid "fade"
+msgstr ""
+
+#: post-type-doctors.php:633 post-type-gallery.php:622 shortcodes/carousel.php:311 shortcodes/small_slider.php:281
+#: shortcodes/testimonials.php:139 theme-options.php:903
+msgid "crossfade"
+msgstr ""
+
+#: post-type-doctors.php:634 post-type-gallery.php:623 shortcodes/carousel.php:312 shortcodes/small_slider.php:282
+#: shortcodes/testimonials.php:140 theme-options.php:904
+msgid "cover"
+msgstr ""
+
+#: post-type-doctors.php:635 post-type-gallery.php:624 shortcodes/carousel.php:313 shortcodes/small_slider.php:283
+#: shortcodes/testimonials.php:141 theme-options.php:905
+msgid "uncover"
+msgstr ""
+
+#: post-type-doctors.php:642 post-type-gallery.php:631 shortcodes/carousel.php:319 shortcodes/small_slider.php:289
+#: shortcodes/testimonials.php:147
+msgid "Sliding easing"
+msgstr ""
+
+#: post-type-doctors.php:645 post-type-gallery.php:634 shortcodes/carousel.php:322 shortcodes/small_slider.php:293
+#: shortcodes/testimonials.php:150 theme-options.php:913
+msgid "swing"
+msgstr ""
+
+#: post-type-doctors.php:646 post-type-gallery.php:635 shortcodes/carousel.php:323 shortcodes/small_slider.php:294
+#: shortcodes/testimonials.php:151 theme-options.php:914
+msgid "linear"
+msgstr ""
+
+#: post-type-doctors.php:647 post-type-gallery.php:636 shortcodes/carousel.php:324 shortcodes/small_slider.php:295
+#: shortcodes/testimonials.php:152 theme-options.php:915
+msgid "easeInQuad"
+msgstr ""
+
+#: post-type-doctors.php:648 post-type-gallery.php:637 shortcodes/carousel.php:325 shortcodes/small_slider.php:296
+#: shortcodes/testimonials.php:153 theme-options.php:916
+msgid "easeOutQuad"
+msgstr ""
+
+#: post-type-doctors.php:649 post-type-gallery.php:638 shortcodes/carousel.php:326 shortcodes/small_slider.php:297
+#: shortcodes/testimonials.php:154 theme-options.php:917
+msgid "easeInOutQuad"
+msgstr ""
+
+#: post-type-doctors.php:650 post-type-gallery.php:639 shortcodes/carousel.php:327 shortcodes/small_slider.php:298
+#: shortcodes/testimonials.php:155 theme-options.php:918
+msgid "easeInCubic"
+msgstr ""
+
+#: post-type-doctors.php:651 post-type-gallery.php:640 shortcodes/carousel.php:328 shortcodes/small_slider.php:299
+#: shortcodes/testimonials.php:156 theme-options.php:919
+msgid "easeOutCubic"
+msgstr ""
+
+#: post-type-doctors.php:652 post-type-gallery.php:641 shortcodes/carousel.php:329 shortcodes/small_slider.php:300
+#: shortcodes/testimonials.php:157 theme-options.php:920 theme-options.php:921
+msgid "easeInOutCubic"
+msgstr ""
+
+#: post-type-doctors.php:653 post-type-gallery.php:642 shortcodes/carousel.php:330 shortcodes/small_slider.php:301
+#: shortcodes/testimonials.php:158 theme-options.php:922
+msgid "easeInQuart"
+msgstr ""
+
+#: post-type-doctors.php:654 post-type-gallery.php:643 shortcodes/carousel.php:331 shortcodes/small_slider.php:302
+#: shortcodes/testimonials.php:159 theme-options.php:923
+msgid "easeOutQuart"
+msgstr ""
+
+#: post-type-doctors.php:655 post-type-gallery.php:644 shortcodes/carousel.php:332 shortcodes/small_slider.php:303
+#: shortcodes/testimonials.php:160 theme-options.php:924
+msgid "easeInOutQuart"
+msgstr ""
+
+#: post-type-doctors.php:656 post-type-gallery.php:645 shortcodes/carousel.php:333 shortcodes/small_slider.php:304
+#: shortcodes/testimonials.php:161 theme-options.php:925
+msgid "easeInSine"
+msgstr ""
+
+#: post-type-doctors.php:657 post-type-gallery.php:646 shortcodes/carousel.php:334 shortcodes/small_slider.php:305
+#: shortcodes/testimonials.php:162 theme-options.php:926
+msgid "easeOutSine"
+msgstr ""
+
+#: post-type-doctors.php:658 post-type-gallery.php:647 shortcodes/carousel.php:335 shortcodes/small_slider.php:306
+#: shortcodes/testimonials.php:163 theme-options.php:927
+msgid "easeInOutSine"
+msgstr ""
+
+#: post-type-doctors.php:659 post-type-gallery.php:648 shortcodes/carousel.php:336 shortcodes/small_slider.php:307
+#: shortcodes/testimonials.php:164 theme-options.php:928
+msgid "easeInExpo"
+msgstr ""
+
+#: post-type-doctors.php:660 post-type-gallery.php:649 shortcodes/carousel.php:337 shortcodes/small_slider.php:308
+#: shortcodes/testimonials.php:165 theme-options.php:929
+msgid "easeOutExpo"
+msgstr ""
+
+#: post-type-doctors.php:661 post-type-gallery.php:650 shortcodes/carousel.php:338 shortcodes/small_slider.php:309
+#: shortcodes/testimonials.php:166 theme-options.php:930
+msgid "easeInOutExpo"
+msgstr ""
+
+#: post-type-doctors.php:662 post-type-gallery.php:651 shortcodes/carousel.php:339 shortcodes/small_slider.php:310
+#: shortcodes/testimonials.php:167 theme-options.php:931
+msgid "easeInQuint"
+msgstr ""
+
+#: post-type-doctors.php:663 post-type-gallery.php:652 shortcodes/carousel.php:340 shortcodes/small_slider.php:311
+#: shortcodes/testimonials.php:168 theme-options.php:932
+msgid "easeOutQuint"
+msgstr ""
+
+#: post-type-doctors.php:664 post-type-gallery.php:653 shortcodes/carousel.php:341 shortcodes/small_slider.php:292
+#: shortcodes/testimonials.php:169 theme-options.php:933
+msgid "easeInOutQuint"
+msgstr ""
+
+#: post-type-doctors.php:665 post-type-gallery.php:654 shortcodes/carousel.php:342 shortcodes/small_slider.php:312
+#: shortcodes/testimonials.php:170 theme-options.php:934
+msgid "easeInCirc"
+msgstr ""
+
+#: post-type-doctors.php:666 post-type-gallery.php:655 shortcodes/carousel.php:343 shortcodes/small_slider.php:313
+#: shortcodes/testimonials.php:171 theme-options.php:935
+msgid "easeOutCirc"
+msgstr ""
+
+#: post-type-doctors.php:667 post-type-gallery.php:656 shortcodes/carousel.php:344 shortcodes/small_slider.php:314
+#: shortcodes/testimonials.php:172 theme-options.php:936
+msgid "easeInOutCirc"
+msgstr ""
+
+#: post-type-doctors.php:668 post-type-gallery.php:657 shortcodes/carousel.php:345 shortcodes/small_slider.php:315
+#: shortcodes/testimonials.php:173 theme-options.php:937
+msgid "easeInElastic"
+msgstr ""
+
+#: post-type-doctors.php:669 post-type-gallery.php:658 shortcodes/carousel.php:346 shortcodes/small_slider.php:316
+#: shortcodes/testimonials.php:174 theme-options.php:938
+msgid "easeOutElastic"
+msgstr ""
+
+#: post-type-doctors.php:670 post-type-gallery.php:659 shortcodes/carousel.php:347 shortcodes/small_slider.php:317
+#: shortcodes/testimonials.php:175 theme-options.php:939
+msgid "easeInOutElastic"
+msgstr ""
+
+#: post-type-doctors.php:671 post-type-gallery.php:660 shortcodes/carousel.php:348 shortcodes/small_slider.php:318
+#: shortcodes/testimonials.php:176 theme-options.php:940
+msgid "easeInBack"
+msgstr ""
+
+#: post-type-doctors.php:672 post-type-gallery.php:661 shortcodes/carousel.php:349 shortcodes/small_slider.php:319
+#: shortcodes/testimonials.php:177 theme-options.php:941
+msgid "easeOutBack"
+msgstr ""
+
+#: post-type-doctors.php:673 post-type-gallery.php:662 shortcodes/carousel.php:350 shortcodes/small_slider.php:320
+#: shortcodes/testimonials.php:178 theme-options.php:942
+msgid "easeInOutBack"
+msgstr ""
+
+#: post-type-doctors.php:674 post-type-gallery.php:663 shortcodes/carousel.php:351 shortcodes/small_slider.php:321
+#: shortcodes/testimonials.php:179 theme-options.php:943
+msgid "easeInBounce"
+msgstr ""
+
+#: post-type-doctors.php:675 post-type-gallery.php:664 shortcodes/carousel.php:352 shortcodes/small_slider.php:322
+#: shortcodes/testimonials.php:180 theme-options.php:944
+msgid "easeOutBounce"
+msgstr ""
+
+#: post-type-doctors.php:676 post-type-gallery.php:665 shortcodes/carousel.php:353 shortcodes/small_slider.php:323
+#: shortcodes/testimonials.php:181 theme-options.php:945
+msgid "easeInOutBounce"
+msgstr ""
+
+#: post-type-doctors.php:683 post-type-gallery.php:672 shortcodes/carousel.php:359 shortcodes/small_slider.php:329
+#: shortcodes/testimonials.php:187
+msgid "Sliding transition speed (ms)"
+msgstr ""
+
+#: post-type-doctors.php:692 post-type-gallery.php:681
+msgid "Items per page"
+msgstr ""
+
+#: post-type-doctors.php:700 post-type-gallery.php:689
+msgid "Ajax pagination"
+msgstr ""
+
+#: post-type-doctors.php:708 post-type-features.php:363 post-type-gallery.php:697 shortcodes/blog.php:327
+#: shortcodes/timetable.php:449
+msgid "Display selected"
+msgstr ""
+
+#: post-type-doctors.php:715 post-type-features.php:370 post-type-gallery.php:704 shortcodes/blog.php:334
+msgid "Display from Category"
+msgstr ""
+
+#: post-type-doctors.php:722 post-type-gallery.php:711
+msgid "Display headers in details"
+msgstr ""
+
+#: post-type-doctors.php:730 post-type-gallery.php:719
+msgid "Headers type"
+msgstr ""
+
+#: post-type-doctors.php:732 post-type-gallery.php:721 shortcodes/shortcodes.php:125
+msgid "H2"
+msgstr ""
+
+#: post-type-doctors.php:732 post-type-gallery.php:721 shortcodes/shortcodes.php:125
+msgid "H1"
+msgstr ""
+
+#: post-type-doctors.php:732 post-type-gallery.php:721 shortcodes/shortcodes.php:125
+msgid "H3"
+msgstr ""
+
+#: post-type-doctors.php:732 post-type-gallery.php:721 shortcodes/shortcodes.php:125
+msgid "H4"
+msgstr ""
+
+#: post-type-doctors.php:732 post-type-gallery.php:721 shortcodes/shortcodes.php:125
+msgid "H5"
+msgstr ""
+
+#: post-type-doctors.php:738 post-type-gallery.php:727
+msgid "Display social icons"
+msgstr ""
+
+#: post-type-doctors.php:745 post-type-gallery.php:734 shortcodes/carousel.php:241 shortcodes/small_slider.php:204
+msgid "Lightbox images loop"
+msgstr ""
+
+#: post-type-doctors.php:753 post-type-gallery.php:742 shortcodes/blog.php:489 shortcodes/carousel.php:249
+#: shortcodes/photostream.php:164 shortcodes/single-post.php:286 shortcodes/small_slider.php:212
+msgid "Lightbox icon color"
+msgstr ""
+
+#: post-type-features.php:9
+msgid "Add New Feature"
+msgstr ""
+
+#: post-type-features.php:10
+msgid "Edit Feature"
+msgstr ""
+
+#: post-type-features.php:11
+msgid "New Feature"
+msgstr ""
+
+#: post-type-features.php:12
+msgid "All Features"
+msgstr ""
+
+#: post-type-features.php:13
+msgid "View Feature"
+msgstr ""
+
+#: post-type-features.php:14
+msgid "Search Features"
+msgstr ""
+
+#: post-type-features.php:15
+msgid "No features found"
+msgstr ""
+
+#: post-type-features.php:16
+msgid "No features found in Trash"
+msgstr ""
+
+#: post-type-features.php:18
+msgid "Features"
+msgstr ""
+
+#: post-type-features.php:68
+msgid "address"
+msgstr ""
+
+#: post-type-features.php:69
+msgid "adjust"
+msgstr ""
+
+#: post-type-features.php:70
+msgid "administration"
+msgstr ""
+
+#: post-type-features.php:71
+msgid "app"
+msgstr ""
+
+#: post-type-features.php:72
+msgid "award"
+msgstr ""
+
+#: post-type-features.php:73
+msgid "balance"
+msgstr ""
+
+#: post-type-features.php:74
+msgid "battery"
+msgstr ""
+
+#: post-type-features.php:75
+msgid "bed"
+msgstr ""
+
+#: post-type-features.php:76
+msgid "bin"
+msgstr ""
+
+#: post-type-features.php:77
+msgid "binders"
+msgstr ""
+
+#: post-type-features.php:78
+msgid "binoculars"
+msgstr ""
+
+#: post-type-features.php:79
+msgid "bookmark"
+msgstr ""
+
+#: post-type-features.php:80
+msgid "box"
+msgstr ""
+
+#: post-type-features.php:81
+msgid "briefcase"
+msgstr ""
+
+#: post-type-features.php:82
+msgid "building"
+msgstr ""
+
+#: post-type-features.php:83
+msgid "calendar"
+msgstr ""
+
+#: post-type-features.php:84
+msgid "cart"
+msgstr ""
+
+#: post-type-features.php:85
+msgid "chart"
+msgstr ""
+
+#: post-type-features.php:86
+msgid "chat"
+msgstr ""
+
+#: post-type-features.php:87
+msgid "clock"
+msgstr ""
+
+#: post-type-features.php:88
+msgid "cloud upload"
+msgstr ""
+
+#: post-type-features.php:89
+msgid "config"
+msgstr ""
+
+#: post-type-features.php:90
+msgid "credit card"
+msgstr ""
+
+#: post-type-features.php:91
+msgid "cross"
+msgstr ""
+
+#: post-type-features.php:92
+msgid "database"
+msgstr ""
+
+#: post-type-features.php:93
+msgid "diary"
+msgstr ""
+
+#: post-type-features.php:94
+msgid "document"
+msgstr ""
+
+#: post-type-features.php:95
+msgid "download"
+msgstr ""
+
+#: post-type-features.php:96
+msgid "dropper"
+msgstr ""
+
+#: post-type-features.php:97
+msgid "fail"
+msgstr ""
+
+#: post-type-features.php:98
+msgid "fax"
+msgstr ""
+
+#: post-type-features.php:99
+msgid "first aid"
+msgstr ""
+
+#: post-type-features.php:100
+msgid "folder"
+msgstr ""
+
+#: post-type-features.php:101
+msgid "form"
+msgstr ""
+
+#: post-type-features.php:102
+msgid "gallery"
+msgstr ""
+
+#: post-type-features.php:103
+msgid "glasses"
+msgstr ""
+
+#: post-type-features.php:104
+msgid "graph"
+msgstr ""
+
+#: post-type-features.php:105
+msgid "healthcare"
+msgstr ""
+
+#: post-type-features.php:106
+msgid "heart"
+msgstr ""
+
+#: post-type-features.php:107
+msgid "home"
+msgstr ""
+
+#: post-type-features.php:108
+msgid "hourglass"
+msgstr ""
+
+#: post-type-features.php:109
+msgid "hyperlink"
+msgstr ""
+
+#: post-type-features.php:110
+msgid "id"
+msgstr ""
+
+#: post-type-features.php:111
+msgid "image"
+msgstr ""
+
+#: post-type-features.php:112
+msgid "info"
+msgstr ""
+
+#: post-type-features.php:113
+msgid "keyboard"
+msgstr ""
+
+#: post-type-features.php:114
+msgid "lab"
+msgstr ""
+
+#: post-type-features.php:115
+msgid "laptop"
+msgstr ""
+
+#: post-type-features.php:116
+msgid "leaf"
+msgstr ""
+
+#: post-type-features.php:117
+msgid "list"
+msgstr ""
+
+#: post-type-features.php:118
+msgid "lock"
+msgstr ""
+
+#: post-type-features.php:119
+msgid "luggage"
+msgstr ""
+
+#: post-type-features.php:120
+msgid "mail"
+msgstr ""
+
+#: post-type-features.php:121
+msgid "mic"
+msgstr ""
+
+#: post-type-features.php:122
+msgid "minus"
+msgstr ""
+
+#: post-type-features.php:123
+msgid "mobile"
+msgstr ""
+
+#: post-type-features.php:124
+msgid "money"
+msgstr ""
+
+#: post-type-features.php:125
+msgid "movie"
+msgstr ""
+
+#: post-type-features.php:126
+msgid "network"
+msgstr ""
+
+#: post-type-features.php:127
+msgid "oscilloscope"
+msgstr ""
+
+#: post-type-features.php:128
+msgid "paintbrush"
+msgstr ""
+
+#: post-type-features.php:129
+msgid "people"
+msgstr ""
+
+#: post-type-features.php:130
+msgid "phone"
+msgstr ""
+
+#: post-type-features.php:131
+msgid "piano"
+msgstr ""
+
+#: post-type-features.php:132
+msgid "pill"
+msgstr ""
+
+#: post-type-features.php:133
+msgid "pin"
+msgstr ""
+
+#: post-type-features.php:134
+msgid "plus"
+msgstr ""
+
+#: post-type-features.php:135
+msgid "printer"
+msgstr ""
+
+#: post-type-features.php:136
+msgid "projector"
+msgstr ""
+
+#: post-type-features.php:137
+msgid "question mark"
+msgstr ""
+
+#: post-type-features.php:138
+msgid "quote"
+msgstr ""
+
+#: post-type-features.php:139
+msgid "restaurant"
+msgstr ""
+
+#: post-type-features.php:140
+msgid "rss"
+msgstr ""
+
+#: post-type-features.php:141
+msgid "screen"
+msgstr ""
+
+#: post-type-features.php:142
+msgid "shield"
+msgstr ""
+
+#: post-type-features.php:143
+msgid "signpost"
+msgstr ""
+
+#: post-type-features.php:144
+msgid "speaker"
+msgstr ""
+
+#: post-type-features.php:145
+msgid "success"
+msgstr ""
+
+#: post-type-features.php:146
+msgid "syringe"
+msgstr ""
+
+#: post-type-features.php:147
+msgid "tablet"
+msgstr ""
+
+#: post-type-features.php:148
+msgid "tags"
+msgstr ""
+
+#: post-type-features.php:149
+msgid "target"
+msgstr ""
+
+#: post-type-features.php:150
+msgid "tick"
+msgstr ""
+
+#: post-type-features.php:151
+msgid "upload"
+msgstr ""
+
+#: post-type-features.php:152
+msgid "video"
+msgstr ""
+
+#: post-type-features.php:153
+msgid "wall"
+msgstr ""
+
+#: post-type-features.php:154
+msgid "wallet"
+msgstr ""
+
+#: post-type-features.php:155
+msgid "warning"
+msgstr ""
+
+#: post-type-features.php:156
+msgid "weight"
+msgstr ""
+
+#: post-type-features.php:157
+msgid "wheelchair"
+msgstr ""
+
+#: post-type-features.php:316 shortcodes/blog.php:173 shortcodes/blog.php:177
+msgid "Read more"
+msgstr ""
+
+#: post-type-features.php:316 shortcodes/blog.php:173 shortcodes/blog.php:177
+msgid "Read more &rarr;"
+msgstr ""
+
+#: post-type-features.php:352
+msgid "Features list"
+msgstr ""
+
+#: post-type-features.php:379 shortcodes/announcement_box.php:101
+msgid "Large"
+msgstr ""
+
+#: post-type-features.php:379 shortcodes/announcement_box.php:101
+msgid "Small"
+msgstr ""
+
+#: post-type-features.php:405
+msgid "Headers"
+msgstr ""
+
+#: post-type-features.php:412
+msgid "Headers links"
+msgstr ""
+
+#: post-type-features.php:419 shortcodes/blog.php:362 shortcodes/items_list.php:157
+msgid "Read more button"
+msgstr ""
+
+#: post-type-features.php:426
+msgid "Icon links"
+msgstr ""
+
+#: post-type-features.php:432
+msgid "Icon animation"
+msgstr ""
+
+#: post-type-features.php:436 shortcodes/announcement_box.php:153 shortcodes/blog.php:410 shortcodes/blog.php:444
+#: shortcodes/shortcodes.php:351 shortcodes/shortcodes.php:382 shortcodes/single-post.php:255
+#: shortcodes/single-post.php:344 shortcodes/single-post.php:375 widgets/widget-footer-box.php:155
+#: widgets/widget-home-box.php:280
+msgid "fade in"
+msgstr ""
+
+#: post-type-features.php:437 shortcodes/announcement_box.php:154 shortcodes/blog.php:411 shortcodes/blog.php:445
+#: shortcodes/shortcodes.php:352 shortcodes/shortcodes.php:383 shortcodes/single-post.php:256
+#: shortcodes/single-post.php:345 shortcodes/single-post.php:376 widgets/widget-footer-box.php:156
+#: widgets/widget-home-box.php:281
+msgid "scale"
+msgstr ""
+
+#: post-type-features.php:438 shortcodes/announcement_box.php:155 shortcodes/blog.php:412 shortcodes/blog.php:446
+#: shortcodes/shortcodes.php:353 shortcodes/shortcodes.php:384 shortcodes/single-post.php:257
+#: shortcodes/single-post.php:346 shortcodes/single-post.php:377 widgets/widget-footer-box.php:157
+#: widgets/widget-home-box.php:282
+msgid "slide right"
+msgstr ""
+
+#: post-type-features.php:439 shortcodes/announcement_box.php:156 shortcodes/blog.php:413 shortcodes/blog.php:447
+#: shortcodes/shortcodes.php:354 shortcodes/shortcodes.php:385 shortcodes/single-post.php:258
+#: shortcodes/single-post.php:347 shortcodes/single-post.php:378 widgets/widget-footer-box.php:158
+#: widgets/widget-home-box.php:283
+msgid "slide right 200%"
+msgstr ""
+
+#: post-type-features.php:440 shortcodes/announcement_box.php:157 shortcodes/blog.php:414 shortcodes/blog.php:448
+#: shortcodes/shortcodes.php:355 shortcodes/shortcodes.php:386 shortcodes/single-post.php:259
+#: shortcodes/single-post.php:348 shortcodes/single-post.php:379 widgets/widget-footer-box.php:159
+#: widgets/widget-home-box.php:284
+msgid "slide left"
+msgstr ""
+
+#: post-type-features.php:441 shortcodes/announcement_box.php:158 shortcodes/blog.php:415 shortcodes/blog.php:449
+#: shortcodes/shortcodes.php:356 shortcodes/shortcodes.php:387 shortcodes/single-post.php:260
+#: shortcodes/single-post.php:349 shortcodes/single-post.php:380 widgets/widget-footer-box.php:160
+#: widgets/widget-home-box.php:285
+msgid "slide left 50%"
+msgstr ""
+
+#: post-type-features.php:442 shortcodes/announcement_box.php:159 shortcodes/blog.php:416 shortcodes/blog.php:450
+#: shortcodes/shortcodes.php:357 shortcodes/shortcodes.php:388 shortcodes/single-post.php:261
+#: shortcodes/single-post.php:350 shortcodes/single-post.php:381 widgets/widget-footer-box.php:161
+#: widgets/widget-home-box.php:286
+msgid "slide down"
+msgstr ""
+
+#: post-type-features.php:443 shortcodes/announcement_box.php:160 shortcodes/blog.php:417 shortcodes/blog.php:451
+#: shortcodes/shortcodes.php:358 shortcodes/shortcodes.php:389 shortcodes/single-post.php:262
+#: shortcodes/single-post.php:351 shortcodes/single-post.php:382 widgets/widget-footer-box.php:162
+#: widgets/widget-home-box.php:287
+msgid "slide down 200%"
+msgstr ""
+
+#: post-type-features.php:444 shortcodes/announcement_box.php:161 shortcodes/blog.php:418 shortcodes/blog.php:452
+#: shortcodes/shortcodes.php:359 shortcodes/shortcodes.php:390 shortcodes/single-post.php:263
+#: shortcodes/single-post.php:352 shortcodes/single-post.php:383 widgets/widget-footer-box.php:163
+#: widgets/widget-home-box.php:288
+msgid "slide up"
+msgstr ""
+
+#: post-type-features.php:450
+msgid "Icon animation duration"
+msgstr ""
+
+#: post-type-features.php:457
+msgid "Icon animation delay"
+msgstr ""
+
+#: post-type-gallery.php:9
+msgid "Add New Gallery Item"
+msgstr ""
+
+#: post-type-gallery.php:10
+msgid "Edit Gallery Item"
+msgstr ""
+
+#: post-type-gallery.php:11
+msgid "New Gallery Item"
+msgstr ""
+
+#: post-type-gallery.php:12
+msgid "All Gallery Items"
+msgstr ""
+
+#: post-type-gallery.php:13
+msgid "View Gallery Item"
+msgstr ""
+
+#: post-type-gallery.php:14
+msgid "Search Gallery Item"
+msgstr ""
+
+#: post-type-gallery.php:15
+msgid "No gallery items found"
+msgstr ""
+
+#: post-type-gallery.php:16
+msgid "No gallery items found in Trash"
+msgstr ""
+
+#: post-type-gallery.php:18
+msgid "Gallery"
+msgstr ""
+
+#: post-type-gallery.php:377
+msgid "Video URL"
+msgstr ""
+
+#: post-type-gallery.php:378
+msgid "Iframe URL"
+msgstr ""
+
+#: post-type-gallery.php:379
+msgid "External URL"
+msgstr ""
+
+#: post-type-gallery.php:473
+msgid "Gallery items list"
+msgstr ""
+
+#: post-type-gallery.php:527
+msgid "Item width 225px"
+msgstr ""
+
+#: post-type-gallery.php:527
+msgid "Item width 480px"
+msgstr ""
+
+#: post-type-gallery.php:527
+msgid "Item width 310px"
+msgstr ""
+
+#: post-type-weekdays.php:10
+msgid "Add New Day"
+msgstr ""
+
+#: post-type-weekdays.php:11
+msgid "Edit Day"
+msgstr ""
+
+#: post-type-weekdays.php:12
+msgid "New Day"
+msgstr ""
+
+#: post-type-weekdays.php:13
+msgid "All Weekdays"
+msgstr ""
+
+#: post-type-weekdays.php:14
+msgid "View Day"
+msgstr ""
+
+#: post-type-weekdays.php:15
+msgid "Search Weekdays"
+msgstr ""
+
+#: post-type-weekdays.php:16
+msgid "No weekdays found"
+msgstr ""
+
+#: post-type-weekdays.php:17
+msgid "No weekdays found in Trash"
+msgstr ""
+
+#: post-type-weekdays.php:19
+msgid "Weekdays"
+msgstr ""
+
+#: search.php:11
+msgid "Search results"
+msgstr ""
+
+#: search.php:22
+msgid "Results for phrase:"
+msgstr ""
+
+#: searchform.php:2
+msgid "To search type and hit enter..."
+msgstr ""
+
+#: shortcodes/accordion.php:37
+msgid "Attribute id is required. For example [accordion_item id='item-1']"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Dark blue"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Blue"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Light blue"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Black"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Gray"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Dark gray"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Light gray"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Green"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Dark green"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Light green"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Orange"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Dark orange"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Light orange"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Red"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Dark red"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Light red"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Turquoise"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Dark turquoise"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Light turquoise"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Violet"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Dark violet"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Light violet"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "White"
+msgstr ""
+
+#: shortcodes/announcement_box.php:41 shortcodes/notification_box.php:28 shortcodes/shortcodes.php:179
+#: widgets/widget-departments.php:165
+msgid "Yellow"
+msgstr ""
+
+#: shortcodes/announcement_box.php:43
+msgid "Announcement box"
+msgstr ""
+
+#: shortcodes/announcement_box.php:63 shortcodes/items_list.php:138 shortcodes/shortcodes.php:209
+#: widgets/widget-appointment.php:137 widgets/widget-contact-details.php:198 widgets/widget-footer-box.php:112
+#: widgets/widget-home-box.php:176
+msgid "Content"
+msgstr ""
+
+#: shortcodes/announcement_box.php:70 shortcodes/items_list.php:164 widgets/widget-home-box.php:189
+msgid "Button label"
+msgstr ""
+
+#: shortcodes/announcement_box.php:77 shortcodes/items_list.php:172 widgets/widget-home-box.php:185
+msgid "Button url"
+msgstr ""
+
+#: shortcodes/announcement_box.php:99
+msgid "Button size"
+msgstr ""
+
+#: shortcodes/announcement_box.php:101
+msgid "Medium"
+msgstr ""
+
+#: shortcodes/announcement_box.php:101
+msgid "Tiny"
+msgstr ""
+
+#: shortcodes/announcement_box.php:105 widgets/widget-departments.php:252
+msgid "Button color"
+msgstr ""
+
+#: shortcodes/announcement_box.php:113
+msgid "or pick custom button color"
+msgstr ""
+
+#: shortcodes/announcement_box.php:119
+msgid "Button hover Color"
+msgstr ""
+
+#: shortcodes/announcement_box.php:127
+msgid "or pick custom button hover color"
+msgstr ""
+
+#: shortcodes/announcement_box.php:135 widgets/widget-departments.php:301 widgets/widget-home-box.php:200
+msgid "Button text color"
+msgstr ""
+
+#: shortcodes/announcement_box.php:143
+msgid "Button Hover text color"
+msgstr ""
+
+#: shortcodes/announcement_box.php:149
+msgid "Button animation"
+msgstr ""
+
+#: shortcodes/announcement_box.php:167
+msgid "Button animation duration"
+msgstr ""
+
+#: shortcodes/announcement_box.php:174
+msgid "Button animation delay"
+msgstr ""
+
+#: shortcodes/blog.php:185 shortcodes/single-post.php:128
+msgid "Posted in "
+msgstr ""
+
+#: shortcodes/blog.php:191 shortcodes/single-post.php:134
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: shortcodes/blog.php:202 shortcodes/single-post.php:145
+msgid "Posted by"
+msgstr ""
+
+#: shortcodes/blog.php:211
+msgid "Posted on"
+msgstr ""
+
+#: shortcodes/blog.php:222
+msgid "Comments:"
+msgstr ""
+
+#: shortcodes/blog.php:287
+msgid "Blog"
+msgstr ""
+
+#: shortcodes/blog.php:305
+msgid "Items per page/Post count"
+msgstr ""
+
+#: shortcodes/blog.php:308
+msgid "Items per page if pagination is set to 'yes' or post count otherwise. Set -1 to display all."
+msgstr ""
+
+#: shortcodes/blog.php:320 shortcodes/single-post.php:210
+msgid "Layout type"
+msgstr ""
+
+#: shortcodes/blog.php:322
+msgid "Type 3 (simple)"
+msgstr ""
+
+#: shortcodes/blog.php:355 shortcodes/single-post.php:217
+msgid "Show post title"
+msgstr ""
+
+#: shortcodes/blog.php:369 shortcodes/single-post.php:231
+msgid "Show post categories"
+msgstr ""
+
+#: shortcodes/blog.php:376 shortcodes/single-post.php:238
+msgid "Show post author"
+msgstr ""
+
+#: shortcodes/blog.php:383 shortcodes/single-post.php:318
+msgid "Show post date in box above post"
+msgstr ""
+
+#: shortcodes/blog.php:391
+msgid "Show comments number in box above/beside the post"
+msgstr ""
+
+#: shortcodes/blog.php:399
+msgid "Show comments number label in box above/beside the  post"
+msgstr ""
+
+#: shortcodes/blog.php:406 shortcodes/single-post.php:340
+msgid "Post date box animation"
+msgstr ""
+
+#: shortcodes/blog.php:425 shortcodes/single-post.php:358
+msgid "Post date box animation duration (ms)"
+msgstr ""
+
+#: shortcodes/blog.php:433 shortcodes/single-post.php:365
+msgid "Post date box animation delay (ms)"
+msgstr ""
+
+#: shortcodes/blog.php:440 shortcodes/single-post.php:371
+msgid "Post comments box animation"
+msgstr ""
+
+#: shortcodes/blog.php:459 shortcodes/single-post.php:389
+msgid "Post comments box animation duration (ms)"
+msgstr ""
+
+#: shortcodes/blog.php:467 shortcodes/single-post.php:396
+msgid "Post comments box animation delay (ms)"
+msgstr ""
+
+#: shortcodes/blog.php:475
+msgid "Show post date in post footer"
+msgstr ""
+
+#: shortcodes/blog.php:482
+msgid "Show comments number in post footer"
+msgstr ""
+
+#: shortcodes/carousel.php:124 shortcodes/photostream.php:65 shortcodes/small_slider.php:98
+msgid "Add images"
+msgstr ""
+
+#: shortcodes/carousel.php:189 shortcodes/photostream.php:143 shortcodes/small_slider.php:160
+msgid "Images"
+msgstr ""
+
+#: shortcodes/carousel.php:223 shortcodes/small_slider.php:194
+msgid "Image title"
+msgstr ""
+
+#: shortcodes/carousel.php:231
+msgid "Image subtitle"
+msgstr ""
+
+#: shortcodes/icon.php:153
+msgid "Social body"
+msgstr ""
+
+#: shortcodes/icon.php:153
+msgid "Social footer"
+msgstr ""
+
+#: shortcodes/icon.php:153
+msgid "Feature large"
+msgstr ""
+
+#: shortcodes/icon.php:153
+msgid "Feature small"
+msgstr ""
+
+#: shortcodes/icon.php:223 shortcodes/shortcodes.php:116 shortcodes/shortcodes.php:287 shortcodes/shortcodes.php:333
+#: shortcodes/small_slider.php:146 shortcodes/testimonials.php:93 widgets/widget-appointment.php:122
+#: widgets/widget-contact-details.php:187 widgets/widget-departments.php:168 widgets/widget-footer-box.php:96
+#: widgets/widget-home-box.php:131 widgets/widget-scrolling-most-commented.php:97
+#: widgets/widget-scrolling-most-viewed.php:96 widgets/widget-scrolling-recent-posts.php:89
+#: widgets/widget-twitter.php:112
+msgid "Title"
+msgstr ""
+
+#: shortcodes/icon.php:231 shortcodes/items_list.php:187 shortcodes/notification_box.php:93
+#: shortcodes/shortcodes.php:146 shortcodes/shortcodes.php:249
+msgid "Extra class name"
+msgstr ""
+
+#: shortcodes/items_list.php:130
+msgid "Top margin header"
+msgstr ""
+
+#: shortcodes/map.php:80
+msgid "Google map"
+msgstr ""
+
+#: shortcodes/map.php:94
+msgid "Please provide unique id for each map on the same page/post"
+msgstr ""
+
+#: shortcodes/map.php:99
+msgid "Width"
+msgstr ""
+
+#: shortcodes/map.php:106
+msgid "Height"
+msgstr ""
+
+#: shortcodes/map.php:113
+msgid "Map type"
+msgstr ""
+
+#: shortcodes/map.php:115
+msgid "Roadmap"
+msgstr ""
+
+#: shortcodes/map.php:115
+msgid "Satellite"
+msgstr ""
+
+#: shortcodes/map.php:115
+msgid "Hybrid"
+msgstr ""
+
+#: shortcodes/map.php:115
+msgid "Terrain"
+msgstr ""
+
+#: shortcodes/map.php:120
+msgid "Latitude"
+msgstr ""
+
+#: shortcodes/map.php:123 shortcodes/map.php:131 shortcodes/map.php:139 shortcodes/map.php:147
+msgid ""
+"You can use this <a href='http://www.birdtheme.org/useful/v3tool.html' target='_blank'>http://www.birdtheme.org/"
+"useful/v3tool.html</a> tool to designate coordinates"
+msgstr ""
+
+#: shortcodes/map.php:128
+msgid "Longitude"
+msgstr ""
+
+#: shortcodes/map.php:136
+msgid "Marker/Point Latitude"
+msgstr ""
+
+#: shortcodes/map.php:144
+msgid "Marker/point Longitude"
+msgstr ""
+
+#: shortcodes/map.php:151
+msgid "Map Zoom"
+msgstr ""
+
+#: shortcodes/map.php:153
+msgid "12 - Default"
+msgstr ""
+
+#: shortcodes/map.php:158
+msgid "Street view control"
+msgstr ""
+
+#: shortcodes/map.php:165
+msgid "Enable scrollwheel"
+msgstr ""
+
+#: shortcodes/map.php:172
+msgid "Map type control"
+msgstr ""
+
+#: shortcodes/map.php:179
+msgid "Marker/Point icon url"
+msgstr ""
+
+#: shortcodes/map.php:186
+msgid "Icon width"
+msgstr ""
+
+#: shortcodes/map.php:193
+msgid "Icon height"
+msgstr ""
+
+#: shortcodes/map.php:200
+msgid "Icon anchor x"
+msgstr ""
+
+#: shortcodes/map.php:207
+msgid "Icon anchor y"
+msgstr ""
+
+#: shortcodes/notification_box.php:22
+msgid "Closing in "
+msgstr ""
+
+#: shortcodes/notification_box.php:22
+msgid " sec..."
+msgstr ""
+
+#: shortcodes/notification_box.php:30
+msgid "Notification box"
+msgstr ""
+
+#: shortcodes/notification_box.php:48
+msgid "Info text"
+msgstr ""
+
+#: shortcodes/notification_box.php:56
+msgid "Success"
+msgstr ""
+
+#: shortcodes/notification_box.php:56
+msgid "Error"
+msgstr ""
+
+#: shortcodes/notification_box.php:56
+msgid "Info"
+msgstr ""
+
+#: shortcodes/notification_box.php:61
+msgid "Auto closing time (in seconds)"
+msgstr ""
+
+#: shortcodes/notification_box.php:69
+msgid "Custom background color"
+msgstr ""
+
+#: shortcodes/notification_box.php:77
+msgid "Header text color"
+msgstr ""
+
+#: shortcodes/notification_box.php:85 shortcodes/shortcodes.php:240 widgets/widget-home-box.php:180
+msgid "Content text color"
+msgstr ""
+
+#: shortcodes/photostream.php:124
+msgid "Photostream"
+msgstr ""
+
+#: shortcodes/photostream.php:138
+msgid "Please provide unique id for each photostream on the same page/post"
+msgstr ""
+
+#: shortcodes/pricing_table.php:17
+msgid "Pricing table"
+msgstr ""
+
+#: shortcodes/shortcodes.php:104
+msgid "Box header"
+msgstr ""
+
+#: shortcodes/shortcodes.php:130
+msgid "Bottom border"
+msgstr ""
+
+#: shortcodes/shortcodes.php:137
+msgid "Bottom border animation"
+msgstr ""
+
+#: shortcodes/shortcodes.php:181
+msgid "Dropcap text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:195
+msgid ""
+"Please provide unique id for each dropcap on the same page/post if you would like to have custom content color for "
+"each one"
+msgstr ""
+
+#: shortcodes/shortcodes.php:201
+msgid "Label"
+msgstr ""
+
+#: shortcodes/shortcodes.php:215
+msgid "Label background color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:218
+msgid "Button color."
+msgstr ""
+
+#: shortcodes/shortcodes.php:224
+msgid "or pick custom label background color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:232
+msgid "Label text color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:243
+msgid "If you would like to use 'Content text color', you need to fill 'Id' field"
+msgstr ""
+
+#: shortcodes/shortcodes.php:268 shortcodes/shortcodes.php:289
+msgid "Show all &rarr;"
+msgstr ""
+
+#: shortcodes/shortcodes.php:275
+msgid "Show all button"
+msgstr ""
+
+#: shortcodes/shortcodes.php:321 widgets/widget-appointment.php:133
+msgid "Sentence"
+msgstr ""
+
+#: shortcodes/shortcodes.php:341 shortcodes/testimonials.php:100
+msgid "Author"
+msgstr ""
+
+#: shortcodes/shortcodes.php:347
+msgid "Title animation"
+msgstr ""
+
+#: shortcodes/shortcodes.php:365
+msgid "Title animation duration"
+msgstr ""
+
+#: shortcodes/shortcodes.php:372
+msgid "Title animation delay"
+msgstr ""
+
+#: shortcodes/shortcodes.php:378
+msgid "Author animation"
+msgstr ""
+
+#: shortcodes/shortcodes.php:396
+msgid "Author animation duration"
+msgstr ""
+
+#: shortcodes/shortcodes.php:403
+msgid "Author animation delay"
+msgstr ""
+
+#: shortcodes/single-post.php:118
+msgid "Leave a reply &rarr;"
+msgstr ""
+
+#: shortcodes/single-post.php:192
+msgid "Post"
+msgstr ""
+
+#: shortcodes/single-post.php:224
+msgid "Show post featured image"
+msgstr ""
+
+#: shortcodes/single-post.php:245
+msgid "Comments"
+msgstr ""
+
+#: shortcodes/single-post.php:247
+msgid "Enabled"
+msgstr ""
+
+#: shortcodes/single-post.php:247
+msgid "Disabled"
+msgstr ""
+
+#: shortcodes/single-post.php:251
+msgid "Comments form box animation"
+msgstr ""
+
+#: shortcodes/single-post.php:270
+msgid "Comments form box animation duration (ms)"
+msgstr ""
+
+#: shortcodes/single-post.php:278
+msgid "Comments form box animation delay (ms)"
+msgstr ""
+
+#: shortcodes/single-post.php:326
+msgid "Show comments number in box above post"
+msgstr ""
+
+#: shortcodes/single-post.php:334
+msgid "Show comments number label in box above post"
+msgstr ""
+
+#: shortcodes/small_slider.php:356
+msgid "Small slider"
+msgstr ""
+
+#: shortcodes/tabs.php:39
+msgid "Attribute id is required. For example [tab id='tab-1']"
+msgstr ""
+
+#: shortcodes/tabs.php:58
+msgid "Attribute id is required. For example [tab_content id='tab-1']"
+msgstr ""
+
+#: shortcodes/testimonials.php:65
+msgid "Please provide unique id for each testimonials carousel on the same page/post"
+msgstr ""
+
+#: shortcodes/testimonials.php:84
+msgid "Number of testimonials"
+msgstr ""
+
+#: shortcodes/testimonials.php:214
+msgid "Testimonials"
+msgstr ""
+
+#: shortcodes/timetable.php:344
+msgid "Click on the department name to get additional info"
+msgstr ""
+
+#: shortcodes/timetable.php:463
+msgid "Mode"
+msgstr ""
+
+#: shortcodes/timetable.php:465
+msgid "24h (military time)"
+msgstr ""
+
+#: shortcodes/timetable.php:465
+msgid "12h (am/pm)"
+msgstr ""
+
+#: shortcodes/timetable.php:470
+msgid "Display from hour category"
+msgstr ""
+
+#: shortcodes/timetable.php:491
+msgid "Departments page"
+msgstr ""
+
+#: shortcodes/timetable.php:498
+msgid "Filter style"
+msgstr ""
+
+#: shortcodes/timetable.php:500
+msgid "dropdown list"
+msgstr ""
+
+#: shortcodes/timetable.php:500
+msgid "tabs"
+msgstr ""
+
+#: shortcodes/timetable.php:505
+msgid "Filter title"
+msgstr ""
+
+#: sidebars.php:10
+msgid "Add New Sidebar"
+msgstr ""
+
+#: sidebars.php:11
+msgid "Edit Sidebar"
+msgstr ""
+
+#: sidebars.php:12
+msgid "New Sidebar"
+msgstr ""
+
+#: sidebars.php:13 sidebars.php:19
+msgid "Sidebars"
+msgstr ""
+
+#: sidebars.php:14
+msgid "View Sidebar"
+msgstr ""
+
+#: sidebars.php:15
+msgid "Search Sidebars"
+msgstr ""
+
+#: sidebars.php:16
+msgid "No sidebars found"
+msgstr ""
+
+#: sidebars.php:17
+msgid "No sidebars found in Trash"
+msgstr ""
+
+#: sidebars.php:69
+msgid "Before widget"
+msgstr ""
+
+#: sidebars.php:77
+msgid "After widget"
+msgstr ""
+
+#: sidebars.php:85
+msgid "Before title"
+msgstr ""
+
+#: sidebars.php:93
+msgid "After title"
+msgstr ""
+
+#: sidebars.php:101 sidebars.php:148
+msgid "Hidden"
+msgstr ""
+
+#: template-blog.php:15
+msgid "Daily archives: "
+msgstr ""
+
+#: template-blog.php:17
+msgid "Monthly archives: "
+msgstr ""
+
+#: template-blog.php:19
+msgid "Yearly archives: "
+msgstr ""
+
+#: theme-options.php:580
+msgid "Options saved"
+msgstr ""
+
+#: theme-options.php:622 theme-options.php:690
+msgid "Main"
+msgstr ""
+
+#: theme-options.php:628 theme-options.php:794
+msgid "Slider"
+msgstr ""
+
+#: theme-options.php:634 theme-options.php:958
+msgid "Contact Form"
+msgstr ""
+
+#: theme-options.php:640 theme-options.php:1029
+msgid "Colors"
+msgstr ""
+
+#: theme-options.php:646
+msgid "General"
+msgstr ""
+
+#: theme-options.php:656
+msgid "Buttons"
+msgstr ""
+
+#: theme-options.php:661
+msgid "Menu"
+msgstr ""
+
+#: theme-options.php:666
+msgid "Forms"
+msgstr ""
+
+#: theme-options.php:671
+msgid "Miscellaneous"
+msgstr ""
+
+#: theme-options.php:684 theme-options.php:1703
+msgid "Fonts"
+msgstr ""
+
+#: theme-options.php:693
+msgid "DUMMY CONTENT IMPORT"
+msgstr ""
+
+#: theme-options.php:696
+msgid "blue (no animations)"
+msgstr ""
+
+#: theme-options.php:698
+msgid "green (no animations)"
+msgstr ""
+
+#: theme-options.php:700
+msgid "orange (no animations)"
+msgstr ""
+
+#: theme-options.php:702
+msgid "red (no animations)"
+msgstr ""
+
+#: theme-options.php:704
+msgid "turquoise (no animations)"
+msgstr ""
+
+#: theme-options.php:706
+msgid "violet (no animations)"
+msgstr ""
+
+#: theme-options.php:708
+msgid "Import dummy content"
+msgstr ""
+
+#: theme-options.php:714
+msgid "LOGO URL"
+msgstr ""
+
+#: theme-options.php:717
+msgid "Insert logo"
+msgstr ""
+
+#: theme-options.php:721
+msgid "LOGO TEXT"
+msgstr ""
+
+#: theme-options.php:727
+msgid "FOOTER TEXT LEFT"
+msgstr ""
+
+#: theme-options.php:733
+msgid "FOOTER TEXT RIGHT"
+msgstr ""
+
+#: theme-options.php:739
+msgid "HOME PAGE TOP HINT"
+msgstr ""
+
+#: theme-options.php:745
+msgid "RESPONSIVE"
+msgstr ""
+
+#: theme-options.php:754
+msgid "LAYOUT"
+msgstr ""
+
+#: theme-options.php:757
+msgid "wide"
+msgstr ""
+
+#: theme-options.php:758
+msgid "boxed"
+msgstr ""
+
+#: theme-options.php:759
+msgid "full width"
+msgstr ""
+
+#: theme-options.php:764
+msgid "SHOW LAYOUT PICKER"
+msgstr ""
+
+#: theme-options.php:786
+msgid "enabled"
+msgstr ""
+
+#: theme-options.php:787
+msgid "disabled"
+msgstr ""
+
+#: theme-options.php:797
+msgid "Choose slider id for edit"
+msgstr ""
+
+#: theme-options.php:806
+msgid "Delete this slider"
+msgstr ""
+
+#: theme-options.php:811
+msgid "Or type new slider id to create new one"
+msgstr ""
+
+#: theme-options.php:824
+msgid "SLIDER IMAGE URL"
+msgstr ""
+
+#: theme-options.php:831
+msgid "SLIDER IMAGE TITLE"
+msgstr ""
+
+#: theme-options.php:837
+msgid "SLIDER IMAGE SUBTITLE"
+msgstr ""
+
+#: theme-options.php:843
+msgid "SLIDER IMAGE LINK"
+msgstr ""
+
+#: theme-options.php:852
+msgid "Add slider image"
+msgstr ""
+
+#: theme-options.php:855
+msgid "AUTOPLAY"
+msgstr ""
+
+#: theme-options.php:864
+msgid "NAVIGATION"
+msgstr ""
+
+#: theme-options.php:884
+msgid "SLIDER HEIGHT (px):"
+msgstr ""
+
+#: theme-options.php:890
+msgid "SLIDE INTERVAL (ms):"
+msgstr ""
+
+#: theme-options.php:896
+msgid "EFFECT:"
+msgstr ""
+
+#: theme-options.php:910
+msgid "TRANSITION:"
+msgstr ""
+
+#: theme-options.php:950
+msgid "TRANSITION SPEED (ms):"
+msgstr ""
+
+#: theme-options.php:959
+msgid "ADMIN EMAIL CONFIG"
+msgstr ""
+
+#: theme-options.php:962
+msgid "NAME"
+msgstr ""
+
+#: theme-options.php:968
+msgid "EMAIL"
+msgstr ""
+
+#: theme-options.php:974
+msgid "ADMIN SMTP CONFIG (OPTIONAL)"
+msgstr ""
+
+#: theme-options.php:977
+msgid "HOST"
+msgstr ""
+
+#: theme-options.php:983
+msgid "USERNAME"
+msgstr ""
+
+#: theme-options.php:989
+msgid "PASSWORD"
+msgstr ""
+
+#: theme-options.php:995
+msgid "PORT"
+msgstr ""
+
+#: theme-options.php:1001
+msgid "SMTP SECURE"
+msgstr ""
+
+#: theme-options.php:1005
+msgid "ssl"
+msgstr ""
+
+#: theme-options.php:1006
+msgid "tls"
+msgstr ""
+
+#: theme-options.php:1011
+msgid "EMAIL CONFIG"
+msgstr ""
+
+#: theme-options.php:1014
+msgid "EMAIL SUBJECT"
+msgstr ""
+
+#: theme-options.php:1020
+msgid "TEMPLATE"
+msgstr ""
+
+#: theme-options.php:1030
+msgid "COLOR SCHEME"
+msgstr ""
+
+#: theme-options.php:1033
+msgid "Color scheme"
+msgstr ""
+
+#: theme-options.php:1036
+msgid "blue (default)"
+msgstr ""
+
+#: theme-options.php:1047
+msgid "GENERAL"
+msgstr ""
+
+#: theme-options.php:1050
+msgid "Site background color"
+msgstr ""
+
+#: theme-options.php:1057
+msgid "Header background color"
+msgstr ""
+
+#: theme-options.php:1064
+msgid "Body background color"
+msgstr ""
+
+#: theme-options.php:1071
+msgid "Footer background color"
+msgstr ""
+
+#: theme-options.php:1078
+msgid "Link color"
+msgstr ""
+
+#: theme-options.php:1085
+msgid "Link hover color"
+msgstr ""
+
+#: theme-options.php:1092
+msgid "Footer link color"
+msgstr ""
+
+#: theme-options.php:1099
+msgid "Footer link hover color"
+msgstr ""
+
+#: theme-options.php:1108
+msgid "TEXT"
+msgstr ""
+
+#: theme-options.php:1111
+msgid "Body headers color"
+msgstr ""
+
+#: theme-options.php:1118
+msgid "Body headers border color"
+msgstr ""
+
+#: theme-options.php:1122 theme-options.php:1151 theme-options.php:1302 theme-options.php:1310 theme-options.php:1351
+#: theme-options.php:1359 theme-options.php:1414 theme-options.php:1499 theme-options.php:1507 theme-options.php:1571
+msgid "Enter 'none' for no border"
+msgstr ""
+
+#: theme-options.php:1126
+msgid "Body text color"
+msgstr ""
+
+#: theme-options.php:1133
+msgid "Timeago label color"
+msgstr ""
+
+#: theme-options.php:1140
+msgid "Footer headers color"
+msgstr ""
+
+#: theme-options.php:1147
+msgid "Footer headers border color"
+msgstr ""
+
+#: theme-options.php:1155
+msgid "Footer text color"
+msgstr ""
+
+#: theme-options.php:1162
+msgid "Footer timeago label color"
+msgstr ""
+
+#: theme-options.php:1169
+msgid "Sentence color"
+msgstr ""
+
+#: theme-options.php:1176
+msgid "Quote color"
+msgstr ""
+
+#: theme-options.php:1183
+msgid "Logo text color"
+msgstr ""
+
+#: theme-options.php:1192
+msgid "BUTTONS"
+msgstr ""
+
+#: theme-options.php:1195
+msgid "Body button text color"
+msgstr ""
+
+#: theme-options.php:1202
+msgid "Body button text hover color"
+msgstr ""
+
+#: theme-options.php:1209
+msgid "Body button border color"
+msgstr ""
+
+#: theme-options.php:1216
+msgid "Body button border hover color"
+msgstr ""
+
+#: theme-options.php:1223
+msgid "Footer button text color"
+msgstr ""
+
+#: theme-options.php:1230
+msgid "Footer button text hover color"
+msgstr ""
+
+#: theme-options.php:1237
+msgid "Footer button border color"
+msgstr ""
+
+#: theme-options.php:1244
+msgid "Footer button border hover color"
+msgstr ""
+
+#: theme-options.php:1253
+msgid "MENU"
+msgstr ""
+
+#: theme-options.php:1256
+msgid "Postion text color"
+msgstr ""
+
+#: theme-options.php:1263
+msgid "Postion hover text color"
+msgstr ""
+
+#: theme-options.php:1270
+msgid "Postion background color"
+msgstr ""
+
+#: theme-options.php:1277
+msgid "Postion hover background color"
+msgstr ""
+
+#: theme-options.php:1284
+msgid "Submenu postion text color"
+msgstr ""
+
+#: theme-options.php:1291
+msgid "Submenu postion hover text color"
+msgstr ""
+
+#: theme-options.php:1298
+msgid "Submenu postion border color"
+msgstr ""
+
+#: theme-options.php:1306
+msgid "Submenu postion hover border color"
+msgstr ""
+
+#: theme-options.php:1314
+msgid "Dropdown menu background color"
+msgstr ""
+
+#: theme-options.php:1321
+msgid "Dropdown menu hover background color"
+msgstr ""
+
+#: theme-options.php:1328
+msgid "Dropdown menu border color"
+msgstr ""
+
+#: theme-options.php:1337
+msgid "FORMS"
+msgstr ""
+
+#: theme-options.php:1340
+msgid "Form field text color"
+msgstr ""
+
+#: theme-options.php:1347
+msgid "Form field top border color"
+msgstr ""
+
+#: theme-options.php:1355
+msgid "Form field active top border color"
+msgstr ""
+
+#: theme-options.php:1363
+msgid "Form button background color"
+msgstr ""
+
+#: theme-options.php:1370
+msgid "Form button hover background color"
+msgstr ""
+
+#: theme-options.php:1377
+msgid "Form button text color"
+msgstr ""
+
+#: theme-options.php:1384
+msgid "Form button hover text color"
+msgstr ""
+
+#: theme-options.php:1393
+msgid "MISCELLANEOUS"
+msgstr ""
+
+#: theme-options.php:1396
+msgid "Top hint background color"
+msgstr ""
+
+#: theme-options.php:1403
+msgid "Top hint text color"
+msgstr ""
+
+#: theme-options.php:1410
+msgid "Page top border color"
+msgstr ""
+
+#: theme-options.php:1418
+msgid "Divider background color"
+msgstr ""
+
+#: theme-options.php:1425
+msgid "Date box background color"
+msgstr ""
+
+#: theme-options.php:1432
+msgid "Date box text color"
+msgstr ""
+
+#: theme-options.php:1439
+msgid "Date box comments number background color"
+msgstr ""
+
+#: theme-options.php:1446
+msgid "Date box comments number text color"
+msgstr ""
+
+#: theme-options.php:1453
+msgid "Gallery box background color"
+msgstr ""
+
+#: theme-options.php:1460
+msgid "Gallery box hover background color"
+msgstr ""
+
+#: theme-options.php:1467
+msgid "Gallery box text first line color"
+msgstr ""
+
+#: theme-options.php:1474
+msgid "Gallery box text second line color"
+msgstr ""
+
+#: theme-options.php:1481
+msgid "Gallery box hover text first line color"
+msgstr ""
+
+#: theme-options.php:1488
+msgid "Gallery box hover text second line color"
+msgstr ""
+
+#: theme-options.php:1495
+msgid "Gallery box border color"
+msgstr ""
+
+#: theme-options.php:1503
+msgid "Gallery box hover border color"
+msgstr ""
+
+#: theme-options.php:1553
+msgid "Timetable tip box background color"
+msgstr ""
+
+#: theme-options.php:1560
+msgid "Accordion tab color"
+msgstr ""
+
+#: theme-options.php:1567
+msgid "Copyright area border color"
+msgstr ""
+
+#: theme-options.php:1642
+msgid "Header layout type"
+msgstr ""
+
+#: theme-options.php:1653
+msgid "Header top sidebar"
+msgstr ""
+
+#: theme-options.php:1685
+msgid "Header top right sidebar"
+msgstr ""
+
+#: theme-options.php:1706
+msgid "Header font"
+msgstr ""
+
+#: theme-options.php:1739
+msgid "Subheader font"
+msgstr ""
+
+#: widgets/widget-appointment.php:12
+msgid "Appointment"
+msgstr ""
+
+#: widgets/widget-appointment.php:126 widgets/widget-contact-details.php:191 widgets/widget-departments.php:172
+#: widgets/widget-scrolling-most-commented.php:101 widgets/widget-scrolling-most-viewed.php:100
+#: widgets/widget-scrolling-recent-posts.php:93 widgets/widget-twitter.php:116
+msgid "Title border animation"
+msgstr ""
+
+#: widgets/widget-appointment.php:156 widgets/widget-contact-details.php:249
+msgid "color"
+msgstr ""
+
+#: widgets/widget-contact-details.php:12
+msgid "Contact Details Box"
+msgstr ""
+
+#: widgets/widget-contact-details.php:202
+msgid "address_line_1"
+msgstr ""
+
+#: widgets/widget-contact-details.php:206
+msgid "address_line_2"
+msgstr ""
+
+#: widgets/widget-contact-details.php:210
+msgid "address_line_3"
+msgstr ""
+
+#: widgets/widget-contact-details.php:214
+msgid "address_line_4"
+msgstr ""
+
+#: widgets/widget-contact-details.php:218
+msgid "contact_line_1"
+msgstr ""
+
+#: widgets/widget-contact-details.php:222
+msgid "contact_line_2"
+msgstr ""
+
+#: widgets/widget-contact-details.php:226
+msgid "contact_line_3"
+msgstr ""
+
+#: widgets/widget-contact-details.php:230
+msgid "contact_line_4"
+msgstr ""
+
+#: widgets/widget-departments.php:13
+msgid "Departments Accordion"
+msgstr ""
+
+#: widgets/widget-departments.php:181
+msgid "ASC"
+msgstr ""
+
+#: widgets/widget-departments.php:182
+msgid "DESC"
+msgstr ""
+
+#: widgets/widget-departments.php:200
+msgid "Departments Page"
+msgstr ""
+
+#: widgets/widget-departments.php:223
+msgid "Timetable Page"
+msgstr ""
+
+#: widgets/widget-departments.php:236
+msgid "Active tab number"
+msgstr ""
+
+#: widgets/widget-departments.php:240
+msgid "Tab color"
+msgstr ""
+
+#: widgets/widget-departments.php:247 widgets/widget-departments.php:259 widgets/widget-departments.php:271
+#: widgets/widget-footer-box.php:147 widgets/widget-home-box.php:167 widgets/widget-home-box.php:238
+#: widgets/widget-home-box.php:272
+msgid "or pick custom one: "
+msgstr ""
+
+#: widgets/widget-departments.php:264
+msgid "Button hover color"
+msgstr ""
+
+#: widgets/widget-departments.php:306 widgets/widget-home-box.php:205
+msgid "Button hover text color"
+msgstr ""
+
+#: widgets/widget-footer-box.php:13
+msgid "Footer Box"
+msgstr ""
+
+#: widgets/widget-footer-box.php:100 widgets/widget-home-box.php:135
+msgid "Title color"
+msgstr ""
+
+#: widgets/widget-footer-box.php:104
+msgid "More link url"
+msgstr ""
+
+#: widgets/widget-footer-box.php:108
+msgid "More link label"
+msgstr ""
+
+#: widgets/widget-footer-box.php:116
+msgid "Text color"
+msgstr ""
+
+#: widgets/widget-footer-box.php:120 widgets/widget-home-box.php:140
+msgid "Color"
+msgstr ""
+
+#: widgets/widget-footer-box.php:152 widgets/widget-home-box.php:277
+msgid "Box animation"
+msgstr ""
+
+#: widgets/widget-footer-box.php:167 widgets/widget-home-box.php:292
+msgid "Box animation duration (in ms)"
+msgstr ""
+
+#: widgets/widget-footer-box.php:171 widgets/widget-home-box.php:296
+msgid "Box animation delay (in ms)"
+msgstr ""
+
+#: widgets/widget-home-box.php:13
+msgid "Home Box"
+msgstr ""
+
+#: widgets/widget-home-box.php:172
+msgid "Custom width (in px)"
+msgstr ""
+
+#: widgets/widget-home-box.php:193
+msgid "Button target"
+msgstr ""
+
+#: widgets/widget-home-box.php:195
+msgid "Same window"
+msgstr ""
+
+#: widgets/widget-home-box.php:196
+msgid "New window"
+msgstr ""
+
+#: widgets/widget-home-box.php:210
+msgid "Button bg color"
+msgstr ""
+
+#: widgets/widget-home-box.php:212 widgets/widget-home-box.php:246
+msgid "transparent"
+msgstr ""
+
+#: widgets/widget-home-box.php:243
+msgid "Button hover bg color"
+msgstr ""
+
+#: widgets/widget-scrolling-most-commented.php:12
+msgid "Scrolling Most Commented Posts"
+msgstr ""
+
+#: widgets/widget-scrolling-most-commented.php:108 widgets/widget-scrolling-most-viewed.php:107
+#: widgets/widget-scrolling-recent-posts.php:100 widgets/widget-twitter.php:127
+msgid "Count"
+msgstr ""
+
+#: widgets/widget-scrolling-most-viewed.php:12
+msgid "Scrolling Most Viewed Posts"
+msgstr ""
+
+#: widgets/widget-scrolling-recent-posts.php:12
+msgid "Scrolling Recent Posts"
+msgstr ""
+
+#: widgets/widget-twitter.php:13
+msgid "Twitter Feed"
+msgstr ""
+
+#: widgets/widget-twitter.php:72
+msgid "Please check your config under Appearance->Widgets->Twitter Feed!"
+msgstr ""
+
+#: widgets/widget-twitter.php:123
+msgid "Login"
+msgstr ""
+
+#: widgets/widget-twitter.php:131
+msgid "Consumer key"
+msgstr ""
+
+#: widgets/widget-twitter.php:135
+msgid "Consumer secret"
+msgstr ""
+
+#: widgets/widget-twitter.php:139
+msgid "Access token"
+msgstr ""
+
+#: widgets/widget-twitter.php:143
+msgid "Access token secret"
+msgstr ""
